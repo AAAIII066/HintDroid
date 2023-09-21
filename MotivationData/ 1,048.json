@@ -1,0 +1,1496 @@
+{
+  "activity_name": "com.lazycatsoftware.iptv/com.lazycatsoftware.iptv.ActivityMain", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        634, 
+        98, 
+        1440, 
+        938
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        806, 
+        840
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.widget.FrameLayout", 
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            634, 
+            98, 
+            1440, 
+            938
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            806, 
+            840
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "scrollable-horizontal": false, 
+              "draw": false, 
+              "ancestors": [
+                "android.support.v7.widget.DropDownListView", 
+                "android.support.v7.widget.ListViewCompat", 
+                "android.widget.ListView", 
+                "android.widget.AbsListView", 
+                "android.widget.AdapterView", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": true, 
+              "pressed": "not_pressed", 
+              "focusable": true, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                634, 
+                98, 
+                1440, 
+                938
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                806, 
+                840
+              ], 
+              "focused": true, 
+              "selected": false, 
+              "scrollable-vertical": true, 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    634, 
+                    98, 
+                    1440, 
+                    266
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    806, 
+                    168
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/icon", 
+                      "adapter-view": false, 
+                      "pointer": "6eaa9c3", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        28, 
+                        28, 
+                        196, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        662, 
+                        126, 
+                        830, 
+                        238
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        859, 
+                        144, 
+                        1272, 
+                        220
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        225, 
+                        46, 
+                        638, 
+                        122
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "List", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "7a10579", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            413, 
+                            76
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": true, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            144, 
+                            1272, 
+                            220
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/shortcut", 
+                          "adapter-view": false, 
+                          "pointer": "3d062be", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": false, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            144, 
+                            859, 
+                            144
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "175e240", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/submenuarrow", 
+                      "adapter-view": false, 
+                      "pointer": "ac41f1f", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": false, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        634, 
+                        98, 
+                        634, 
+                        98
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "", 
+                      "resource-id": "com.lazycatsoftware.iptv:id/radio", 
+                      "adapter-view": false, 
+                      "pointer": "7f6e26c", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.RadioButton", 
+                        "android.widget.CompoundButton", 
+                        "android.widget.Button", 
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        638, 
+                        28, 
+                        750, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.support.v7.widget.AppCompatRadioButton", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        1272, 
+                        126, 
+                        1384, 
+                        238
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "8cda172", 
+                  "class": "android.support.v7.view.menu.ListMenuItemView", 
+                  "visible-to-user": true
+                }, 
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    634, 
+                    266, 
+                    1440, 
+                    434
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    168, 
+                    806, 
+                    336
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/icon", 
+                      "adapter-view": false, 
+                      "pointer": "cabecca", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        28, 
+                        28, 
+                        196, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        662, 
+                        294, 
+                        830, 
+                        406
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        859, 
+                        312, 
+                        1272, 
+                        388
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        225, 
+                        46, 
+                        638, 
+                        122
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "Icons", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "ea5b958", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            413, 
+                            76
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": true, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            312, 
+                            1272, 
+                            388
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/shortcut", 
+                          "adapter-view": false, 
+                          "pointer": "d18eab1", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": false, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            312, 
+                            859, 
+                            312
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "5958e3b", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/submenuarrow", 
+                      "adapter-view": false, 
+                      "pointer": "1040b96", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": false, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        634, 
+                        266, 
+                        634, 
+                        266
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "", 
+                      "resource-id": "com.lazycatsoftware.iptv:id/radio", 
+                      "adapter-view": false, 
+                      "pointer": "644d317", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.RadioButton", 
+                        "android.widget.CompoundButton", 
+                        "android.widget.Button", 
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        638, 
+                        28, 
+                        750, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.support.v7.widget.AppCompatRadioButton", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        1272, 
+                        294, 
+                        1384, 
+                        406
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "8a38035", 
+                  "class": "android.support.v7.view.menu.ListMenuItemView", 
+                  "visible-to-user": true
+                }, 
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    634, 
+                    434, 
+                    1440, 
+                    602
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    336, 
+                    806, 
+                    504
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/icon", 
+                      "adapter-view": false, 
+                      "pointer": "fa080ed", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        28, 
+                        28, 
+                        196, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        662, 
+                        462, 
+                        830, 
+                        574
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        859, 
+                        480, 
+                        1272, 
+                        556
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        225, 
+                        46, 
+                        638, 
+                        122
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "Bars", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "a3989b3", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            413, 
+                            76
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": true, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            480, 
+                            1272, 
+                            556
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/shortcut", 
+                          "adapter-view": false, 
+                          "pointer": "5e65b70", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": false, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            480, 
+                            859, 
+                            480
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "2ed4b22", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/submenuarrow", 
+                      "adapter-view": false, 
+                      "pointer": "b913ee9", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": false, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        634, 
+                        434, 
+                        634, 
+                        434
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "", 
+                      "resource-id": "com.lazycatsoftware.iptv:id/radio", 
+                      "adapter-view": false, 
+                      "pointer": "f38f76e", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.RadioButton", 
+                        "android.widget.CompoundButton", 
+                        "android.widget.Button", 
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        638, 
+                        28, 
+                        750, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.support.v7.widget.AppCompatRadioButton", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        1272, 
+                        462, 
+                        1384, 
+                        574
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "e691304", 
+                  "class": "android.support.v7.view.menu.ListMenuItemView", 
+                  "visible-to-user": true
+                }, 
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    634, 
+                    602, 
+                    1440, 
+                    770
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    504, 
+                    806, 
+                    672
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/icon", 
+                      "adapter-view": false, 
+                      "pointer": "6adbe9c", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        28, 
+                        28, 
+                        196, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        662, 
+                        630, 
+                        830, 
+                        742
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        859, 
+                        648, 
+                        1384, 
+                        724
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        225, 
+                        46, 
+                        750, 
+                        122
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "Export current folder", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "c811c7a", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            525, 
+                            76
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": true, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            648, 
+                            1384, 
+                            724
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/shortcut", 
+                          "adapter-view": false, 
+                          "pointer": "a027c2b", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": false, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            648, 
+                            859, 
+                            648
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "b5e0a5", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/submenuarrow", 
+                      "adapter-view": false, 
+                      "pointer": "9262888", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": false, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        634, 
+                        602, 
+                        634, 
+                        602
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "3b90e0f", 
+                  "class": "android.support.v7.view.menu.ListMenuItemView", 
+                  "visible-to-user": true
+                }, 
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    634, 
+                    770, 
+                    1440, 
+                    938
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    672, 
+                    806, 
+                    840
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/icon", 
+                      "adapter-view": false, 
+                      "pointer": "ef48646", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        28, 
+                        28, 
+                        196, 
+                        140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        662, 
+                        798, 
+                        830, 
+                        910
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        859, 
+                        816, 
+                        1384, 
+                        892
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        225, 
+                        46, 
+                        750, 
+                        122
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "Export all bookmarks", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/title", 
+                          "adapter-view": false, 
+                          "pointer": "3394534", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            525, 
+                            76
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": true, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            816, 
+                            1384, 
+                            892
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.lazycatsoftware.iptv:id/shortcut", 
+                          "adapter-view": false, 
+                          "pointer": "cb07f5d", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "sans-serif", 
+                          "class": "android.support.v7.widget.AppCompatTextView", 
+                          "visible-to-user": false, 
+                          "package": "com.lazycatsoftware.iptv", 
+                          "enabled": true, 
+                          "bounds": [
+                            859, 
+                            816, 
+                            859, 
+                            816
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "f2ab007", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.lazycatsoftware.iptv:id/submenuarrow", 
+                      "adapter-view": false, 
+                      "pointer": "ce2c0d2", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.AppCompatImageView", 
+                      "visible-to-user": false, 
+                      "package": "com.lazycatsoftware.iptv", 
+                      "enabled": true, 
+                      "bounds": [
+                        634, 
+                        770, 
+                        634, 
+                        770
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "6c8e221", 
+                  "class": "android.support.v7.view.menu.ListMenuItemView", 
+                  "visible-to-user": true
+                }
+              ], 
+              "adapter-view": true, 
+              "abs-pos": true, 
+              "pointer": "6fb3a36", 
+              "class": "android.support.v7.widget.MenuPopupWindow$MenuDropDownListView", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "f28fc4b", 
+          "class": "android.widget.PopupWindow$PopupBackgroundView", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "36f091a", 
+      "class": "android.widget.PopupWindow$PopupDecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "56"
+}
