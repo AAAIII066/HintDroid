@@ -1,0 +1,739 @@
+{
+  "activity_name": "com.likesfamousapp/com.likesfamousapp.MainActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "resource-id": "android:id/decor_content_parent", 
+          "adapter-view": false, 
+          "pointer": "8db14a1", 
+          "children": [
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "b1706c6", 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    280, 
+                    1440, 
+                    2392
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2112
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        280, 
+                        0, 
+                        280
+                      ], 
+                      "visibility": "gone", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "facf9b4", 
+                      "class": "android.widget.ImageView", 
+                      "visible-to-user": false
+                    }, 
+                    {
+                      "text": "Login using Instagram account.", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "5f359dd", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        525, 
+                        1387, 
+                        637
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.widget.TextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        805, 
+                        1387, 
+                        917
+                      ], 
+                      "pressed": "not_pressed"
+                    }, 
+                    {
+                      "text": "Username:", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "becc952", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        672, 
+                        1387, 
+                        748
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.widget.TextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        952, 
+                        1387, 
+                        1028
+                      ], 
+                      "pressed": "not_pressed"
+                    }, 
+                    {
+                      "text": "", 
+                      "resource-id": "com.likesfamousapp:id/username", 
+                      "adapter-view": false, 
+                      "pointer": "94e423", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        748, 
+                        1387, 
+                        924
+                      ], 
+                      "draw": false, 
+                      "focusable": true, 
+                      "long-clickable": true, 
+                      "visibility": "visible", 
+                      "text-hint": "Not email", 
+                      "focused": false, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.widget.EditText", 
+                      "visible-to-user": true, 
+                      "package": "com.likesfamousapp", 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        1028, 
+                        1387, 
+                        1204
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "Password:", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "2f9fd20", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        959, 
+                        1387, 
+                        1035
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.widget.TextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        1239, 
+                        1387, 
+                        1315
+                      ], 
+                      "pressed": "not_pressed"
+                    }, 
+                    {
+                      "text": "", 
+                      "resource-id": "com.likesfamousapp:id/password", 
+                      "adapter-view": false, 
+                      "pointer": "650b6d9", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        1035, 
+                        1387, 
+                        1211
+                      ], 
+                      "draw": false, 
+                      "focusable": true, 
+                      "long-clickable": true, 
+                      "visibility": "visible", 
+                      "focused": true, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "font-family": "monospace", 
+                      "class": "android.widget.EditText", 
+                      "visible-to-user": true, 
+                      "package": "com.likesfamousapp", 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        1315, 
+                        1387, 
+                        1491
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "Sign In", 
+                      "resource-id": "com.likesfamousapp:id/login", 
+                      "adapter-view": false, 
+                      "pointer": "cea289e", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        1281, 
+                        1387, 
+                        1463
+                      ], 
+                      "draw": false, 
+                      "focusable": true, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif-medium", 
+                      "class": "android.widget.Button", 
+                      "visible-to-user": true, 
+                      "package": "com.likesfamousapp", 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        1561, 
+                        1387, 
+                        1743
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "tip: if you forgot your username please open Instagram, open Edit Profile and view username", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "479f7f", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        53, 
+                        1463, 
+                        1387, 
+                        1586
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif", 
+                      "class": "android.widget.TextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        53, 
+                        1743, 
+                        1387, 
+                        1866
+                      ], 
+                      "pressed": "not_pressed"
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "26687", 
+                  "class": "android.widget.LinearLayout", 
+                  "visible-to-user": true
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                280, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                280, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/action_bar_container", 
+              "adapter-view": false, 
+              "pointer": "c51cb4c", 
+              "children": [
+                {
+                  "resource-id": "android:id/action_bar", 
+                  "adapter-view": false, 
+                  "pointer": "38ce795", 
+                  "children": [
+                    {
+                      "text": "Likes for Instagram", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "3cc30aa", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        56, 
+                        51, 
+                        665, 
+                        144
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "sans-serif-medium", 
+                      "class": "android.widget.TextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        56, 
+                        135, 
+                        665, 
+                        228
+                      ], 
+                      "pressed": "not_pressed"
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.widget.LinearLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        1300, 
+                        84, 
+                        1440, 
+                        280
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        1300, 
+                        0, 
+                        1440, 
+                        196
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.ImageButton", 
+                            "android.widget.ImageView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": true, 
+                          "pressed": "not_pressed", 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            1300, 
+                            98, 
+                            1440, 
+                            266
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            "More options"
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            14, 
+                            140, 
+                            182
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "d216811", 
+                          "class": "android.widget.ActionMenuPresenter$OverflowMenuButton", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "240b49b", 
+                      "class": "android.widget.ActionMenuView", 
+                      "visible-to-user": true
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    196
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.Toolbar", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    280
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "resource-id": "android:id/action_context_bar", 
+                  "adapter-view": false, 
+                  "pointer": "314ad76", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "com.android.internal.widget.AbsActionBarView", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "gone", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.android.internal.widget.ActionBarContextView", 
+                  "visible-to-user": false, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    0, 
+                    84
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.widget.FrameLayout", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                280
+              ], 
+              "draw": false, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "com.android.internal.widget.ActionBarContainer", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                280
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "draw": true, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "com.android.internal.widget.ActionBarOverlayLayout", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "d2f9508", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "228"
+}

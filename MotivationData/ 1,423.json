@@ -1,0 +1,584 @@
+{
+  "activity_name": "wait.what.volume.booster/wait.what.volume.booster.MainActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        160, 
+        299, 
+        1280, 
+        2093
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1120, 
+        1794
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            216, 
+            355, 
+            1224, 
+            2037
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            56, 
+            56, 
+            1064, 
+            1738
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "582016e", 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    216, 
+                    355, 
+                    1224, 
+                    2037
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1008, 
+                    1682
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "text": "App of the day", 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "pointer": "ea6d89c", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        277, 
+                        56, 
+                        730, 
+                        150
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "default", 
+                      "class": "wait.what.volume.booster.TypefacedTextView", 
+                      "visible-to-user": true, 
+                      "enabled": true, 
+                      "bounds": [
+                        493, 
+                        411, 
+                        946, 
+                        505
+                      ], 
+                      "pressed": "not_pressed"
+                    }, 
+                    {
+                      "resource-id": "wait.what.volume.booster:id/appImageView", 
+                      "adapter-view": false, 
+                      "pointer": "7b1f2a5", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        105, 
+                        206, 
+                        902, 
+                        1003
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "class": "android.widget.ImageView", 
+                      "visible-to-user": true, 
+                      "package": "wait.what.volume.booster", 
+                      "enabled": true, 
+                      "bounds": [
+                        321, 
+                        561, 
+                        1118, 
+                        1358
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "Speaker Booster", 
+                      "resource-id": "wait.what.volume.booster:id/appTextView", 
+                      "adapter-view": false, 
+                      "pointer": "f50c67a", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        244, 
+                        1003, 
+                        763, 
+                        1097
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "font-family": "default", 
+                      "class": "wait.what.volume.booster.TypefacedTextView", 
+                      "visible-to-user": true, 
+                      "package": "wait.what.volume.booster", 
+                      "enabled": true, 
+                      "bounds": [
+                        460, 
+                        1358, 
+                        979, 
+                        1452
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "Tools", 
+                      "resource-id": "wait.what.volume.booster:id/categoryTextView", 
+                      "adapter-view": false, 
+                      "pointer": "e39de2b", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        443, 
+                        1097, 
+                        564, 
+                        1163
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "default", 
+                      "class": "wait.what.volume.booster.TypefacedTextView", 
+                      "visible-to-user": true, 
+                      "package": "wait.what.volume.booster", 
+                      "enabled": true, 
+                      "bounds": [
+                        659, 
+                        1452, 
+                        780, 
+                        1518
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "Speaker Booster - we calibrate your built-in eQualizer.", 
+                      "resource-id": "wait.what.volume.booster:id/descriptionTextView", 
+                      "adapter-view": false, 
+                      "pointer": "96e288", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        56, 
+                        1216, 
+                        952, 
+                        1346
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "default", 
+                      "class": "wait.what.volume.booster.TypefacedTextView", 
+                      "visible-to-user": true, 
+                      "package": "wait.what.volume.booster", 
+                      "enabled": true, 
+                      "bounds": [
+                        272, 
+                        1571, 
+                        1168, 
+                        1701
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.widget.LinearLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        272, 
+                        1757, 
+                        1168, 
+                        1925
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        56, 
+                        1402, 
+                        952, 
+                        1570
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.widget.LinearLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            272, 
+                            1757, 
+                            1168, 
+                            1925
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            896, 
+                            168
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "text": "Cancel", 
+                              "resource-id": "wait.what.volume.booster:id/cancelBtn", 
+                              "adapter-view": false, 
+                              "pointer": "c763207", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.Button", 
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                430, 
+                                168
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "font-family": "sans-serif-medium", 
+                              "class": "android.support.v7.widget.c", 
+                              "visible-to-user": true, 
+                              "package": "wait.what.volume.booster", 
+                              "enabled": true, 
+                              "bounds": [
+                                272, 
+                                1757, 
+                                702, 
+                                1925
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "Download", 
+                              "resource-id": "wait.what.volume.booster:id/downloadBtn", 
+                              "adapter-view": false, 
+                              "pointer": "9fb9f34", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.Button", 
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                465, 
+                                0, 
+                                895, 
+                                168
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "font-family": "sans-serif-medium", 
+                              "class": "android.support.v7.widget.c", 
+                              "visible-to-user": true, 
+                              "package": "wait.what.volume.booster", 
+                              "enabled": true, 
+                              "bounds": [
+                                737, 
+                                1757, 
+                                1167, 
+                                1925
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "14d046", 
+                          "class": "android.widget.TableRow", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "6741421", 
+                      "class": "android.widget.TableLayout", 
+                      "visible-to-user": true
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "dde500f", 
+                  "class": "android.widget.LinearLayout", 
+                  "visible-to-user": true
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                1008, 
+                1682
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                216, 
+                355, 
+                1224, 
+                2037
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "dcd15d", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                216, 
+                355, 
+                216, 
+                355
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "c9030e9", 
+          "class": "android.widget.FrameLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "4a1d570", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "603"
+}

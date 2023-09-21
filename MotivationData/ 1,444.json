@@ -1,0 +1,1473 @@
+{
+  "activity_name": "com.didirelease.view/com.didirelease.view.profile.ProfileCard", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "resource-id": "android:id/decor_content_parent", 
+          "adapter-view": false, 
+          "pointer": "c3f01d0", 
+          "children": [
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "4155c9", 
+              "children": [
+                {
+                  "resource-id": "com.didirelease.view:id/mm_root_view", 
+                  "adapter-view": false, 
+                  "pointer": "66af4ce", 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        252, 
+                        1440, 
+                        2392
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2140
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "resource-id": "com.didirelease.view:id/lv_profilecard", 
+                          "adapter-view": true, 
+                          "pointer": "9d3276e", 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                252, 
+                                1440, 
+                                872
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                620
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "resource-id": "com.didirelease.view:id/iv_background", 
+                                  "adapter-view": false, 
+                                  "pointer": "d826f5d", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "net.frakbot.imageviewex.ImageViewEx", 
+                                    "net.frakbot.imageviewex.RoundAngleImageView", 
+                                    "android.widget.ImageView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    1440, 
+                                    490
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "net.frakbot.imageviewex.ImageViewNext", 
+                                  "visible-to-user": true, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    252, 
+                                    1440, 
+                                    742
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.didirelease.view:id/ll_text_below", 
+                                  "adapter-view": false, 
+                                  "pointer": "5008585", 
+                                  "children": [
+                                    {
+                                      "text": "Hi Number : 7546053", 
+                                      "resource-id": "com.didirelease.view:id/tv_diginumber", 
+                                      "adapter-view": false, 
+                                      "pointer": "3c58fda", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        308, 
+                                        14, 
+                                        774, 
+                                        80
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        308, 
+                                        756, 
+                                        774, 
+                                        822
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "text": "Loading...", 
+                                      "resource-id": "com.didirelease.view:id/tv_alias", 
+                                      "adapter-view": false, 
+                                      "pointer": "98edc0b", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        0, 
+                                        0
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "gone", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": false, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        742, 
+                                        0, 
+                                        742
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    490, 
+                                    1440, 
+                                    570
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    742, 
+                                    1440, 
+                                    822
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.didirelease.view:id/ll_text_above", 
+                                  "adapter-view": false, 
+                                  "pointer": "4613ae8", 
+                                  "children": [
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": true, 
+                                      "ancestors": [
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        280, 
+                                        616, 
+                                        853, 
+                                        728
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        573, 
+                                        112
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "children": [
+                                        {
+                                          "text": "john smith", 
+                                          "resource-id": "com.didirelease.view:id/tv_uesrname", 
+                                          "adapter-view": false, 
+                                          "pointer": "3fccfa6", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            "Mobile contacts sync activated. If people in your mobile contacts register on Hi, system will send you notifications."
+                                          ], 
+                                          "rel-bounds": [
+                                            28, 
+                                            0, 
+                                            419, 
+                                            112
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.TextView", 
+                                          "visible-to-user": true, 
+                                          "package": "com.didirelease.view", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            308, 
+                                            616, 
+                                            699, 
+                                            728
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "resource-id": "com.didirelease.view:id/iv_gender", 
+                                          "adapter-view": false, 
+                                          "pointer": "a4d2de7", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            "Profile"
+                                          ], 
+                                          "rel-bounds": [
+                                            433, 
+                                            14, 
+                                            517, 
+                                            98
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.ImageView", 
+                                          "visible-to-user": true, 
+                                          "package": "com.didirelease.view", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            713, 
+                                            630, 
+                                            797, 
+                                            714
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }
+                                      ], 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "4c8f501", 
+                                      "class": "android.widget.LinearLayout", 
+                                      "visible-to-user": true
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    280, 
+                                    364, 
+                                    1440, 
+                                    490
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    280, 
+                                    616, 
+                                    1440, 
+                                    742
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.didirelease.view:id/iv_avatar", 
+                                  "adapter-view": false, 
+                                  "pointer": "d65f0d2", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "net.frakbot.imageviewex.ImageViewNext", 
+                                    "net.frakbot.imageviewex.ImageViewEx", 
+                                    "net.frakbot.imageviewex.RoundAngleImageView", 
+                                    "android.widget.ImageView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    35, 
+                                    368, 
+                                    287, 
+                                    620
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "com.didirelease.view.view.DigiAvatarImageView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    35, 
+                                    620, 
+                                    287, 
+                                    872
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "35a6afc", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                876, 
+                                1440, 
+                                1156
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                624, 
+                                1440, 
+                                904
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "resource-id": "com.didirelease.view:id/ll_chat", 
+                                  "adapter-view": false, 
+                                  "pointer": "54ee03d", 
+                                  "children": [
+                                    {
+                                      "resource-id": "com.didirelease.view:id/ib_chat_msg", 
+                                      "adapter-view": false, 
+                                      "pointer": "7164032", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.widget.ImageView", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        "Chat"
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        1356, 
+                                        154
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": true, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": true, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.ImageButton", 
+                                      "visible-to-user": true, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        960, 
+                                        1398, 
+                                        1114
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "resource-id": "com.didirelease.view:id/v_divider_1", 
+                                      "adapter-view": false, 
+                                      "pointer": "4b4c183", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        0, 
+                                        0
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "gone", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.view.View", 
+                                      "visible-to-user": false, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        960, 
+                                        42, 
+                                        960
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "resource-id": "com.didirelease.view:id/ib_chat_audio", 
+                                      "adapter-view": false, 
+                                      "pointer": "23e7f00", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.widget.ImageView", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        "Call Me"
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        0, 
+                                        0
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": true, 
+                                      "long-clickable": false, 
+                                      "visibility": "gone", 
+                                      "focused": false, 
+                                      "clickable": true, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.ImageButton", 
+                                      "visible-to-user": false, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        960, 
+                                        42, 
+                                        960
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "resource-id": "com.didirelease.view:id/v_divider_2", 
+                                      "adapter-view": false, 
+                                      "pointer": "94e4339", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        0, 
+                                        0
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "gone", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.view.View", 
+                                      "visible-to-user": false, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        960, 
+                                        42, 
+                                        960
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "resource-id": "com.didirelease.view:id/ib_chat_video", 
+                                      "adapter-view": false, 
+                                      "pointer": "5e42d7e", 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.widget.ImageView", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        "Video Call"
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        0, 
+                                        0
+                                      ], 
+                                      "draw": false, 
+                                      "focusable": true, 
+                                      "long-clickable": false, 
+                                      "visibility": "gone", 
+                                      "focused": false, 
+                                      "clickable": true, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.ImageButton", 
+                                      "visible-to-user": false, 
+                                      "package": "com.didirelease.view", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        960, 
+                                        42, 
+                                        960
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    42, 
+                                    84, 
+                                    1398, 
+                                    238
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    42, 
+                                    960, 
+                                    1398, 
+                                    1114
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "", 
+                                  "resource-id": "com.didirelease.view:id/tv_button", 
+                                  "adapter-view": false, 
+                                  "pointer": "577f2df", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.didirelease.view", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    876, 
+                                    0, 
+                                    876
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "e831d94", 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.AbsListView", 
+                            "android.widget.AdapterView", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            2140
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": true, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ListView", 
+                          "visible-to-user": true, 
+                          "package": "com.didirelease.view", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            252, 
+                            1440, 
+                            2392
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "7752fef", 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2140
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.didirelease.ui.DigiRootView", 
+                  "visible-to-user": true, 
+                  "package": "com.didirelease.view", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    252, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                252, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                252, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/action_bar_container", 
+              "adapter-view": false, 
+              "pointer": "78c8b2c", 
+              "children": [
+                {
+                  "resource-id": "android:id/action_bar", 
+                  "adapter-view": false, 
+                  "pointer": "946d9f5", 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": true, 
+                      "pressed": "not_pressed", 
+                      "focusable": true, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        379, 
+                        252
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        "john smith, available, Navigate up"
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        379, 
+                        168
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            56, 
+                            252
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            56, 
+                            168
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "android:id/up", 
+                              "adapter-view": false, 
+                              "pointer": "acd2e18", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                56, 
+                                56, 
+                                112
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                140, 
+                                56, 
+                                196
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "android:id/home", 
+                              "adapter-view": false, 
+                              "pointer": "bf82071", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                42, 
+                                84, 
+                                42, 
+                                84
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                42, 
+                                168, 
+                                42, 
+                                168
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "812ddfb", 
+                          "class": "com.android.internal.widget.ActionBarView$HomeView", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            56, 
+                            97, 
+                            379, 
+                            238
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            56, 
+                            13, 
+                            379, 
+                            154
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "text": "john smith", 
+                              "resource-id": "android:id/action_bar_title", 
+                              "adapter-view": false, 
+                              "pointer": "9a75ed7", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                295, 
+                                85
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.TextView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                56, 
+                                97, 
+                                351, 
+                                182
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "available", 
+                              "resource-id": "android:id/action_bar_subtitle", 
+                              "adapter-view": false, 
+                              "pointer": "c7313c4", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                75, 
+                                194, 
+                                141
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.TextView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                56, 
+                                172, 
+                                250, 
+                                238
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "aee6e56", 
+                          "class": "android.widget.LinearLayout", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "211a38a", 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": false, 
+                      "ancestors": [
+                        "android.widget.LinearLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        1440, 
+                        84, 
+                        1440, 
+                        252
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        1440, 
+                        0, 
+                        1440, 
+                        168
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "a9d52ad", 
+                      "class": "android.widget.ActionMenuView", 
+                      "visible-to-user": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "com.android.internal.widget.AbsActionBarView", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    168
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.android.internal.widget.ActionBarView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    252
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "resource-id": "android:id/action_context_bar", 
+                  "adapter-view": false, 
+                  "pointer": "2fb19e2", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "com.android.internal.widget.AbsActionBarView", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "gone", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.android.internal.widget.ActionBarContextView", 
+                  "visible-to-user": false, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    0, 
+                    84
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.widget.FrameLayout", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                252
+              ], 
+              "draw": false, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "com.android.internal.widget.ActionBarContainer", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                252
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/split_action_bar", 
+              "adapter-view": false, 
+              "pointer": "d991173", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.widget.FrameLayout", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": false, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "com.android.internal.widget.ActionBarContainer", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "com.android.internal.widget.ActionBarOverlayLayout", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "74d4d93", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "952"
+}

@@ -1,0 +1,2159 @@
+{
+  "activity_name": "com.narvii.amino.x129306178/com.narvii.account.LoginActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "resource-id": "android:id/decor_content_parent", 
+          "adapter-view": false, 
+          "pointer": "3f921d8", 
+          "children": [
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "e736931", 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2392
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2392
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": false, 
+                      "ancestors": [
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2392
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2392
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "17bb597", 
+                      "class": "android.view.View", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/blur_bg", 
+                      "adapter-view": false, 
+                      "pointer": "cca8384", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.ImageView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2392
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.narvii.widget.BlurImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/blur_overlay", 
+                      "adapter-view": false, 
+                      "pointer": "264676d", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.view.View", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/login_background_flipper", 
+                      "adapter-view": false, 
+                      "pointer": "7916fa2", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.FrameLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.narvii.widget.Flipper", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": false, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/gradient", 
+                      "adapter-view": false, 
+                      "pointer": "23c1433", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.narvii.account.GradientView", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/frame", 
+                      "adapter-view": false, 
+                      "pointer": "42e53f0", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            2308
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                1440, 
+                                266
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                182
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "resource-id": "com.narvii.amino.x129306178:id/actionbar_back", 
+                                  "adapter-view": false, 
+                                  "pointer": "477b661", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    168, 
+                                    168
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    84, 
+                                    168, 
+                                    252
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "text": "Log In", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    632, 
+                                    84, 
+                                    807, 
+                                    266
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    632, 
+                                    0, 
+                                    807, 
+                                    182
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "906586", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true
+                                }, 
+                                {
+                                  "text": "Create Account", 
+                                  "resource-id": "com.narvii.amino.x129306178:id/account_switch_login_signup", 
+                                  "adapter-view": false, 
+                                  "pointer": "80e3e47", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    1006, 
+                                    0, 
+                                    1440, 
+                                    182
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.Button", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1006, 
+                                    84, 
+                                    1440, 
+                                    266
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "e36a5c8", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "text": "", 
+                              "resource-id": "com.narvii.amino.x129306178:id/email", 
+                              "adapter-view": false, 
+                              "pointer": "6f45674", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.AutoCompleteTextView", 
+                                "android.widget.EditText", 
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                453, 
+                                1267, 
+                                600
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": true, 
+                              "visibility": "visible", 
+                              "text-hint": "Email", 
+                              "focused": true, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "com.narvii.widget.AutoCompleteEmailView", 
+                              "visible-to-user": true, 
+                              "package": "com.narvii.amino.x129306178", 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                537, 
+                                1267, 
+                                684
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": false, 
+                              "ancestors": [
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                687, 
+                                1267, 
+                                689
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                603, 
+                                1267, 
+                                605
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "a18579d", 
+                              "class": "android.view.View", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "text": "", 
+                              "resource-id": "com.narvii.amino.x129306178:id/pass", 
+                              "adapter-view": false, 
+                              "pointer": "77d5412", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.EditText", 
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                619, 
+                                1267, 
+                                766
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": true, 
+                              "visibility": "visible", 
+                              "text-hint": "Password", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "font-family": "monospace", 
+                              "class": "com.narvii.widget.ClearEditText", 
+                              "visible-to-user": true, 
+                              "package": "com.narvii.amino.x129306178", 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                703, 
+                                1267, 
+                                850
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": false, 
+                              "ancestors": [
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                854, 
+                                1267, 
+                                856
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                770, 
+                                1267, 
+                                772
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "7e677e3", 
+                              "class": "android.view.View", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                884, 
+                                1267, 
+                                946
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                800, 
+                                1267, 
+                                862
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "text": "Forgot Password?", 
+                                  "resource-id": "com.narvii.amino.x129306178:id/forget_password", 
+                                  "adapter-view": false, 
+                                  "pointer": "927d099", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    722, 
+                                    0, 
+                                    1094, 
+                                    62
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    895, 
+                                    884, 
+                                    1267, 
+                                    946
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "23a65e0", 
+                              "class": "android.widget.FrameLayout", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "resource-id": "com.narvii.amino.x129306178:id/account_third_logins", 
+                              "adapter-view": false, 
+                              "pointer": "6d89f5e", 
+                              "children": [
+                                {
+                                  "text": "Or register with", 
+                                  "resource-id": "com.narvii.amino.x129306178:id/stub1", 
+                                  "adapter-view": false, 
+                                  "pointer": "b7eaf3f", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    564, 
+                                    0, 
+                                    876, 
+                                    62
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    564, 
+                                    2134, 
+                                    876, 
+                                    2196
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.narvii.amino.x129306178:id/stub2", 
+                                  "adapter-view": false, 
+                                  "pointer": "810000c", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    719, 
+                                    97, 
+                                    720, 
+                                    209
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.view.View", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    719, 
+                                    2231, 
+                                    720, 
+                                    2343
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.narvii.amino.x129306178:id/facebook_login_btn", 
+                                  "adapter-view": false, 
+                                  "pointer": "41bdd55", 
+                                  "children": [
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        187, 
+                                        2240, 
+                                        280, 
+                                        2333
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        187, 
+                                        23, 
+                                        280, 
+                                        116
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "20b536a", 
+                                      "class": "android.widget.ImageView", 
+                                      "visible-to-user": true
+                                    }, 
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "text": "Facebook", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        301, 
+                                        2251, 
+                                        531, 
+                                        2322
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        301, 
+                                        34, 
+                                        531, 
+                                        105
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "39005b", 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    83, 
+                                    719, 
+                                    223
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    2217, 
+                                    719, 
+                                    2357
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.narvii.amino.x129306178:id/google_login_btn", 
+                                  "adapter-view": false, 
+                                  "pointer": "7c310f8", 
+                                  "children": [
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        939, 
+                                        2240, 
+                                        1032, 
+                                        2333
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        219, 
+                                        23, 
+                                        312, 
+                                        116
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "509f9d1", 
+                                      "class": "android.widget.ImageView", 
+                                      "visible-to-user": true
+                                    }, 
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "text": "Google", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        1053, 
+                                        2251, 
+                                        1220, 
+                                        2322
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        333, 
+                                        34, 
+                                        500, 
+                                        105
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "8033c36", 
+                                      "class": "android.widget.TextView", 
+                                      "visible-to-user": true
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    720, 
+                                    83, 
+                                    1440, 
+                                    223
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true, 
+                                  "package": "com.narvii.amino.x129306178", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    720, 
+                                    2217, 
+                                    1440, 
+                                    2357
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                2050, 
+                                1440, 
+                                2273
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.narvii.amino.x129306178", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                2134, 
+                                1440, 
+                                2357
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "Log In", 
+                              "resource-id": "com.narvii.amino.x129306178:id/login", 
+                              "adapter-view": false, 
+                              "pointer": "d7d4737", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                173, 
+                                1833, 
+                                1267, 
+                                2015
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "android.widget.Button", 
+                              "visible-to-user": true, 
+                              "package": "com.narvii.amino.x129306178", 
+                              "enabled": true, 
+                              "bounds": [
+                                173, 
+                                1917, 
+                                1267, 
+                                2099
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "fbda66b", 
+                          "class": "com.github.mmin18.widget.FlexLayout", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.FrameLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/submit_frame", 
+                      "adapter-view": false, 
+                      "pointer": "c9e249e", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "eb1eb7f", 
+                          "class": "android.view.View", 
+                          "visible-to-user": false
+                        }, 
+                        {
+                          "resource-id": "android:id/progress", 
+                          "adapter-view": false, 
+                          "pointer": "abc274c", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "com.narvii.widget.SpinningView", 
+                          "visible-to-user": false, 
+                          "package": "android", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "", 
+                          "resource-id": "com.narvii.amino.x129306178:id/progress_text", 
+                          "adapter-view": false, 
+                          "pointer": "6de1395", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": false, 
+                          "package": "com.narvii.amino.x129306178", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "c3ecaa", 
+                          "class": "android.view.View", 
+                          "visible-to-user": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/google_login_fragment", 
+                      "adapter-view": false, 
+                      "pointer": "b03c09b", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.view.View", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/facebook_login_fragment", 
+                      "adapter-view": false, 
+                      "pointer": "82a6c38", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.view.View", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "e16e816", 
+                  "class": "android.widget.RelativeLayout", 
+                  "visible-to-user": true
+                }, 
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.widget.FrameLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    84
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    84
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/fake_status", 
+                      "adapter-view": false, 
+                      "pointer": "dcc2976", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        84
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.view.View", 
+                      "visible-to-user": true, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        84
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "2595411", 
+                  "class": "com.narvii.util.statusbar.StatusBarLayout", 
+                  "visible-to-user": true
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/action_bar_container", 
+              "adapter-view": false, 
+              "pointer": "bd3cb77", 
+              "children": [
+                {
+                  "resource-id": "android:id/action_bar", 
+                  "adapter-view": false, 
+                  "pointer": "63613e4", 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": true, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": false, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "visibility": "gone", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "android:id/up", 
+                              "adapter-view": false, 
+                              "pointer": "82fa813", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "android:id/home", 
+                              "adapter-view": false, 
+                              "pointer": "3328a50", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "6496702", 
+                          "class": "com.android.internal.widget.ActionBarView$HomeView", 
+                          "visible-to-user": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "56e204d", 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": false
+                    }, 
+                    {
+                      "resource-id": "com.narvii.amino.x129306178:id/actionbar", 
+                      "adapter-view": false, 
+                      "pointer": "c897449", 
+                      "children": [
+                        {
+                          "resource-id": "com.narvii.amino.x129306178:id/actionbar_left", 
+                          "adapter-view": false, 
+                          "pointer": "16af14e", 
+                          "children": [
+                            {
+                              "resource-id": "com.narvii.amino.x129306178:id/actionbar_back", 
+                              "adapter-view": false, 
+                              "pointer": "62b26f", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "com.narvii.amino.x129306178", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.FrameLayout", 
+                          "visible-to-user": false, 
+                          "package": "com.narvii.amino.x129306178", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "Log In", 
+                          "resource-id": "com.narvii.amino.x129306178:id/actionbar_title", 
+                          "adapter-view": false, 
+                          "pointer": "70a811b", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": false, 
+                          "package": "com.narvii.amino.x129306178", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.RelativeLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.narvii.util.actionbar.ActionBarLayout", 
+                      "visible-to-user": false, 
+                      "package": "com.narvii.amino.x129306178", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": false, 
+                      "ancestors": [
+                        "android.widget.LinearLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "d3dfb7c", 
+                      "class": "android.widget.ActionMenuView", 
+                      "visible-to-user": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "com.android.internal.widget.AbsActionBarView", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.android.internal.widget.ActionBarView", 
+                  "visible-to-user": false, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "resource-id": "android:id/action_context_bar", 
+                  "adapter-view": false, 
+                  "pointer": "3ec0c05", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "com.android.internal.widget.AbsActionBarView", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "gone", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "com.android.internal.widget.ActionBarContextView", 
+                  "visible-to-user": false, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    0, 
+                    0, 
+                    0
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.widget.FrameLayout", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": false, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "com.android.internal.widget.ActionBarContainer", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/split_action_bar", 
+              "adapter-view": false, 
+              "pointer": "808d45a", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.widget.FrameLayout", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": false, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "com.android.internal.widget.ActionBarContainer", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "draw": true, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "com.android.internal.widget.ActionBarOverlayLayout", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }, 
+        {
+          "resource-id": "android:id/navigationBarBackground", 
+          "adapter-view": false, 
+          "pointer": "412068b", 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "android.view.View", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "4eb48bb", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "373"
+}

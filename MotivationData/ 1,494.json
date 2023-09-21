@@ -1,0 +1,944 @@
+{
+  "activity_name": "minibar.android/minibar.android.MainActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "286c76d", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "f744fa2", 
+              "children": [
+                {
+                  "resource-id": "minibar.android:id/allStuff", 
+                  "adapter-view": false, 
+                  "pointer": "e157433", 
+                  "children": [
+                    {
+                      "resource-id": "minibar.android:id/pager", 
+                      "adapter-view": false, 
+                      "pointer": "afc33f0", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            2308
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "minibar.android:id/image", 
+                              "adapter-view": false, 
+                              "pointer": "a6bc3ee", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                2308
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": true, 
+                              "package": "minibar.android", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                1440, 
+                                2392
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "android:id/icon", 
+                              "adapter-view": false, 
+                              "pointer": "da9208f", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                506, 
+                                519, 
+                                933, 
+                                944
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                506, 
+                                603, 
+                                933, 
+                                1028
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "WELCOME", 
+                              "resource-id": "android:id/text1", 
+                              "adapter-view": false, 
+                              "pointer": "6889f1c", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                471, 
+                                1294, 
+                                969, 
+                                1412
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "default", 
+                              "class": "minibar.android.ui.widgets.avenir.AvenirTextView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                471, 
+                                1378, 
+                                969, 
+                                1496
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "Wine & spirits delivered\n to your door.", 
+                              "resource-id": "android:id/text2", 
+                              "adapter-view": false, 
+                              "pointer": "44e7725", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                165, 
+                                1482, 
+                                1274, 
+                                1690
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "default", 
+                              "class": "minibar.android.ui.widgets.avenir.AvenirTextView", 
+                              "visible-to-user": true, 
+                              "package": "android", 
+                              "enabled": true, 
+                              "bounds": [
+                                165, 
+                                1566, 
+                                1274, 
+                                1774
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "minibar.android:id/space", 
+                              "adapter-view": false, 
+                              "pointer": "95430fa", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                720, 
+                                1154, 
+                                720, 
+                                1154
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "invisible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.Space", 
+                              "visible-to-user": false, 
+                              "package": "minibar.android", 
+                              "enabled": true, 
+                              "bounds": [
+                                720, 
+                                1238, 
+                                720, 
+                                1238
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "d56d69", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            1440, 
+                            84, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            1440, 
+                            0, 
+                            2880, 
+                            2308
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "minibar.android:id/image", 
+                              "adapter-view": false, 
+                              "pointer": "f0e9108", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                2308
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "minibar.android", 
+                              "enabled": true, 
+                              "bounds": [
+                                1440, 
+                                84, 
+                                1440, 
+                                2392
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                1440, 
+                                84, 
+                                1440, 
+                                2056
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                1972
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "text": "LIFT YOUR SPIRITS", 
+                                  "resource-id": "android:id/text1", 
+                                  "adapter-view": false, 
+                                  "pointer": "b2462c6", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    297, 
+                                    683, 
+                                    1142, 
+                                    801
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "default", 
+                                  "class": "minibar.android.ui.widgets.avenir.AvenirTextView", 
+                                  "visible-to-user": false, 
+                                  "package": "android", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    2889, 
+                                    767, 
+                                    1440, 
+                                    885
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Whether you're shopping for dinner, planning a party, or sending a gift, Minibar Delivery has your covered.", 
+                                  "resource-id": "android:id/text2", 
+                                  "adapter-view": false, 
+                                  "pointer": "fba9287", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    871, 
+                                    1440, 
+                                    1289
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "default", 
+                                  "class": "minibar.android.ui.widgets.avenir.AvenirTextView", 
+                                  "visible-to-user": false, 
+                                  "package": "android", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    2016, 
+                                    955, 
+                                    1440, 
+                                    1373
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "d9460a1", 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": false
+                            }, 
+                            {
+                              "resource-id": "minibar.android:id/space", 
+                              "adapter-view": false, 
+                              "pointer": "67fb5b4", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                1972, 
+                                0, 
+                                2308
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "invisible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.Space", 
+                              "visible-to-user": false, 
+                              "package": "minibar.android", 
+                              "enabled": true, 
+                              "bounds": [
+                                1440, 
+                                2056, 
+                                1440, 
+                                2392
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "b2136ab", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": false, 
+                      "focusable": true, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v4.view.ViewPager", 
+                      "visible-to-user": true, 
+                      "package": "minibar.android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "minibar.android:id/indicator", 
+                      "adapter-view": false, 
+                      "pointer": "af565dd", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        1881, 
+                        1440, 
+                        1930
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "minibar.android.ui.widgets.indicator.CirclePagerIndicator", 
+                      "visible-to-user": true, 
+                      "package": "minibar.android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        1965, 
+                        1440, 
+                        2014
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "text": "ARE YOU OVER 21 YEARS OF AGE?", 
+                      "resource-id": "minibar.android:id/question", 
+                      "adapter-view": false, 
+                      "pointer": "573e552", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "minibar.android.ui.widgets.avenir.AvenirTextView", 
+                        "android.widget.TextView", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        2014, 
+                        1440, 
+                        2140
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "font-family": "default", 
+                      "class": "minibar.android.ui.widgets.avenir.AutoResizeTextView", 
+                      "visible-to-user": true, 
+                      "package": "minibar.android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        2098, 
+                        1440, 
+                        2224
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "minibar.android:id/linearLayout", 
+                      "adapter-view": false, 
+                      "pointer": "1a3d023", 
+                      "children": [
+                        {
+                          "text": "NO", 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "pointer": "a3c7920", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.Button", 
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            720, 
+                            168
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "minibar.android.ui.widgets.avenir.AvenirButton", 
+                          "visible-to-user": true, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            2224, 
+                            720, 
+                            2392
+                          ], 
+                          "pressed": "not_pressed"
+                        }, 
+                        {
+                          "text": "YES", 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "pointer": "76782d9", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.Button", 
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            720, 
+                            0, 
+                            1440, 
+                            168
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "minibar.android.ui.widgets.avenir.AvenirButton", 
+                          "visible-to-user": true, 
+                          "enabled": true, 
+                          "bounds": [
+                            720, 
+                            2224, 
+                            1440, 
+                            2392
+                          ], 
+                          "pressed": "not_pressed"
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        2140, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "minibar.android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        2224, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.RelativeLayout", 
+                  "visible-to-user": true, 
+                  "package": "minibar.android", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "87a6384", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "7f1597", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "4"
+}

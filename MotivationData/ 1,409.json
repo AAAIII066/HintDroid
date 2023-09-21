@@ -1,0 +1,1272 @@
+{
+  "activity_name": "com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.NoActionBarNoDrawerTransparentPMSActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "71ac33f", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "scrollable-horizontal": false, 
+              "draw": true, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": false, 
+              "pressed": "not_pressed", 
+              "focusable": false, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "focused": false, 
+              "selected": false, 
+              "scrollable-vertical": false, 
+              "children": [
+                {
+                  "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/action_bar_root", 
+                  "adapter-view": false, 
+                  "pointer": "3281155", 
+                  "children": [
+                    {
+                      "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/action_mode_bar_stub", 
+                      "adapter-view": false, 
+                      "pointer": "a15776a", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.ViewStubCompat", 
+                      "visible-to-user": false, 
+                      "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        0, 
+                        84
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "android:id/content", 
+                      "adapter-view": false, 
+                      "pointer": "b82545b", 
+                      "children": [
+                        {
+                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/content_container", 
+                          "adapter-view": false, 
+                          "pointer": "593d4f8", 
+                          "children": [
+                            {
+                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/list_container", 
+                              "adapter-view": false, 
+                              "pointer": "aa56dd1", 
+                              "children": [
+                                {
+                                  "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/listview", 
+                                  "adapter-view": true, 
+                                  "pointer": "8ba036", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.AbsListView", 
+                                    "android.widget.AdapterView", 
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ListView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    84, 
+                                    0, 
+                                    84
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": true
+                                }, 
+                                {
+                                  "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/advertFragContainer", 
+                                  "adapter-view": false, 
+                                  "pointer": "607db37", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": true, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.FrameLayout", 
+                                  "visible-to-user": false, 
+                                  "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    84, 
+                                    0, 
+                                    84
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": false, 
+                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                0, 
+                                84
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/pmsActivity_contentFrame", 
+                              "adapter-view": false, 
+                              "pointer": "9ad48a4", 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    84, 
+                                    1440, 
+                                    2392
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    1440, 
+                                    2308
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/text_search_bar", 
+                                      "adapter-view": false, 
+                                      "pointer": "96989c2", 
+                                      "children": [
+                                        {
+                                          "text": "", 
+                                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/edittext", 
+                                          "adapter-view": false, 
+                                          "pointer": "7f4f3d3", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "com.soundhound.android.components.view.CustomEditText", 
+                                            "android.widget.EditText", 
+                                            "android.widget.TextView", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            4, 
+                                            1244, 
+                                            192
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": true, 
+                                          "long-clickable": true, 
+                                          "visibility": "visible", 
+                                          "text-hint": "Search Songs, Artists, Lyrics", 
+                                          "focused": true, 
+                                          "clickable": true, 
+                                          "abs-pos": true, 
+                                          "font-family": "default", 
+                                          "class": "com.soundhound.android.appcommon.util.SoundHoundEditText", 
+                                          "visible-to-user": true, 
+                                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            0, 
+                                            88, 
+                                            1244, 
+                                            276
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/button", 
+                                          "adapter-view": false, 
+                                          "pointer": "dc84b10", 
+                                          "children": [
+                                            {
+                                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/btn_voice_search", 
+                                              "adapter-view": false, 
+                                              "pointer": "3870609", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.ImageView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                28, 
+                                                0, 
+                                                196, 
+                                                196
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": true, 
+                                              "abs-pos": true, 
+                                              "class": "android.support.v7.widget.AppCompatImageView", 
+                                              "visible-to-user": true, 
+                                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                1272, 
+                                                84, 
+                                                1440, 
+                                                280
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }, 
+                                            {
+                                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/btn_say_search", 
+                                              "adapter-view": false, 
+                                              "pointer": "84a800e", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.ImageView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                0, 
+                                                0, 
+                                                0
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "gone", 
+                                              "focused": false, 
+                                              "clickable": true, 
+                                              "abs-pos": true, 
+                                              "class": "android.support.v7.widget.AppCompatImageView", 
+                                              "visible-to-user": false, 
+                                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                1244, 
+                                                84, 
+                                                1244, 
+                                                84
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }, 
+                                            {
+                                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/btn_clear", 
+                                              "adapter-view": false, 
+                                              "pointer": "390fa2f", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.ImageView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                0, 
+                                                0, 
+                                                0
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "gone", 
+                                              "focused": false, 
+                                              "clickable": true, 
+                                              "abs-pos": true, 
+                                              "class": "android.support.v7.widget.AppCompatImageView", 
+                                              "visible-to-user": false, 
+                                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                1244, 
+                                                84, 
+                                                1244, 
+                                                84
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }
+                                          ], 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.widget.FrameLayout", 
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            1244, 
+                                            0, 
+                                            1440, 
+                                            196
+                                          ], 
+                                          "draw": true, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.ViewAnimator", 
+                                          "visible-to-user": true, 
+                                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            1244, 
+                                            84, 
+                                            1440, 
+                                            280
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }
+                                      ], 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        1440, 
+                                        196
+                                      ], 
+                                      "draw": true, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.LinearLayout", 
+                                      "visible-to-user": true, 
+                                      "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        84, 
+                                        1440, 
+                                        280
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/content_container", 
+                                      "adapter-view": false, 
+                                      "pointer": "4f083c", 
+                                      "children": [
+                                        {
+                                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/empty_view", 
+                                          "adapter-view": false, 
+                                          "pointer": "90f9c5", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            0, 
+                                            0, 
+                                            0
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "gone", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.view.View", 
+                                          "visible-to-user": false, 
+                                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            0, 
+                                            280, 
+                                            0, 
+                                            280
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "scrollable-horizontal": false, 
+                                          "draw": true, 
+                                          "ancestors": [
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "clickable": false, 
+                                          "pressed": "not_pressed", 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            0, 
+                                            296, 
+                                            1440, 
+                                            671
+                                          ], 
+                                          "visibility": "visible", 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            16, 
+                                            1440, 
+                                            391
+                                          ], 
+                                          "focused": false, 
+                                          "selected": false, 
+                                          "scrollable-vertical": false, 
+                                          "children": [
+                                            {
+                                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/houndify_education", 
+                                              "adapter-view": false, 
+                                              "pointer": "e3d0a4b", 
+                                              "children": [
+                                                {
+                                                  "scrollable-horizontal": false, 
+                                                  "draw": false, 
+                                                  "ancestors": [
+                                                    "android.widget.ImageView", 
+                                                    "android.view.View", 
+                                                    "java.lang.Object"
+                                                  ], 
+                                                  "clickable": false, 
+                                                  "pressed": "not_pressed", 
+                                                  "focusable": false, 
+                                                  "long-clickable": false, 
+                                                  "enabled": true, 
+                                                  "bounds": [
+                                                    84, 
+                                                    364, 
+                                                    312, 
+                                                    592
+                                                  ], 
+                                                  "visibility": "visible", 
+                                                  "content-desc": [
+                                                    null
+                                                  ], 
+                                                  "rel-bounds": [
+                                                    56, 
+                                                    56, 
+                                                    284, 
+                                                    284
+                                                  ], 
+                                                  "focused": false, 
+                                                  "selected": false, 
+                                                  "scrollable-vertical": false, 
+                                                  "adapter-view": false, 
+                                                  "abs-pos": true, 
+                                                  "pointer": "a226c28", 
+                                                  "class": "android.support.v7.widget.AppCompatImageView", 
+                                                  "visible-to-user": true
+                                                }, 
+                                                {
+                                                  "text": "Say \"OK Hound\u2026\"", 
+                                                  "scrollable-vertical": false, 
+                                                  "adapter-view": false, 
+                                                  "pointer": "c8c6d41", 
+                                                  "scrollable-horizontal": false, 
+                                                  "ancestors": [
+                                                    "com.soundhound.android.components.view.CustomTextView", 
+                                                    "android.widget.TextView", 
+                                                    "android.view.View", 
+                                                    "java.lang.Object"
+                                                  ], 
+                                                  "selected": false, 
+                                                  "content-desc": [
+                                                    null
+                                                  ], 
+                                                  "rel-bounds": [
+                                                    340, 
+                                                    127, 
+                                                    810, 
+                                                    212
+                                                  ], 
+                                                  "draw": false, 
+                                                  "focusable": false, 
+                                                  "long-clickable": false, 
+                                                  "visibility": "visible", 
+                                                  "focused": false, 
+                                                  "clickable": false, 
+                                                  "abs-pos": true, 
+                                                  "font-family": "default", 
+                                                  "class": "com.soundhound.android.appcommon.util.SoundHoundTextView", 
+                                                  "visible-to-user": true, 
+                                                  "enabled": true, 
+                                                  "bounds": [
+                                                    368, 
+                                                    435, 
+                                                    838, 
+                                                    520
+                                                  ], 
+                                                  "pressed": "not_pressed"
+                                                }
+                                              ], 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.view.ViewGroup", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                28, 
+                                                12, 
+                                                1412, 
+                                                352
+                                              ], 
+                                              "draw": true, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": true, 
+                                              "abs-pos": true, 
+                                              "class": "android.widget.LinearLayout", 
+                                              "visible-to-user": true, 
+                                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                28, 
+                                                308, 
+                                                1412, 
+                                                648
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }
+                                          ], 
+                                          "adapter-view": false, 
+                                          "abs-pos": true, 
+                                          "pointer": "d328f1a", 
+                                          "class": "android.widget.FrameLayout", 
+                                          "visible-to-user": true
+                                        }, 
+                                        {
+                                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/scroll_view", 
+                                          "adapter-view": false, 
+                                          "pointer": "25a82e6", 
+                                          "children": [
+                                            {
+                                              "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/suggestions_container", 
+                                              "adapter-view": false, 
+                                              "pointer": "8500027", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.view.ViewGroup", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                0, 
+                                                0, 
+                                                0
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": false, 
+                                              "abs-pos": true, 
+                                              "class": "android.widget.LinearLayout", 
+                                              "visible-to-user": false, 
+                                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                0, 
+                                                280, 
+                                                0, 
+                                                280
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }
+                                          ], 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.widget.FrameLayout", 
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            0, 
+                                            0, 
+                                            0
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": true, 
+                                          "long-clickable": false, 
+                                          "visibility": "gone", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.ScrollView", 
+                                          "visible-to-user": false, 
+                                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            0, 
+                                            280, 
+                                            0, 
+                                            280
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": true
+                                        }
+                                      ], 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.widget.FrameLayout", 
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        196, 
+                                        1440, 
+                                        2308
+                                      ], 
+                                      "draw": true, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.ViewAnimator", 
+                                      "visible-to-user": true, 
+                                      "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        280, 
+                                        1440, 
+                                        2392
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }, 
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": false, 
+                                      "ancestors": [
+                                        "android.widget.ImageView", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        280, 
+                                        1440, 
+                                        291
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        196, 
+                                        1440, 
+                                        207
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "f4622d4", 
+                                      "class": "android.support.v7.widget.AppCompatImageView", 
+                                      "visible-to-user": true
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "dc2160d", 
+                                  "class": "android.widget.RelativeLayout", 
+                                  "visible-to-user": true
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                2308
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.FrameLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                1440, 
+                                2392
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            2308
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.FrameLayout", 
+                          "visible-to-user": true, 
+                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            2392
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.melodis.midomiMusicIdentifier.freemium:id/toolbar", 
+                          "adapter-view": false, 
+                          "pointer": "3719c7d", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.support.v7.widget.Toolbar", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "com.soundhound.android.appcommon.view.AnimatedToolbar", 
+                          "visible-to-user": false, 
+                          "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            0, 
+                            84
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.FrameLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.widget.ContentFrameLayout", 
+                      "visible-to-user": true, 
+                      "package": "android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.LinearLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.support.v7.widget.FitWindowsLinearLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.melodis.midomiMusicIdentifier.freemium", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "adapter-view": false, 
+              "abs-pos": true, 
+              "pointer": "f9c840c", 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "5c8835e", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }, 
+        {
+          "resource-id": "android:id/navigationBarBackground", 
+          "adapter-view": false, 
+          "pointer": "abbe772", 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "android.view.View", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }, 
+        {
+          "resource-id": "android:id/statusBarBackground", 
+          "adapter-view": false, 
+          "pointer": "6b277c3", 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            84
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "android.view.View", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            84
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "818c499", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "351"
+}

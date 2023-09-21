@@ -1,0 +1,1403 @@
+{
+  "activity_name": "com.gau.go.launcherex.gowidget.contactwidget/com.gau.go.launcherex.gowidget.guide.GuideMainActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "9790e76", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "374c77", 
+              "children": [
+                {
+                  "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/theme_Bg", 
+                  "adapter-view": false, 
+                  "pointer": "be200e4", 
+                  "children": [
+                    {
+                      "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/title", 
+                      "adapter-view": false, 
+                      "pointer": "fd8094d", 
+                      "children": [
+                        {
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/logo", 
+                          "adapter-view": false, 
+                          "pointer": "5f9c02", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            49, 
+                            49, 
+                            182, 
+                            182
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ImageView", 
+                          "visible-to-user": true, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            49, 
+                            133, 
+                            182, 
+                            266
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "GO Contact Widget", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/text1", 
+                          "adapter-view": false, 
+                          "pointer": "5ca3913", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            196, 
+                            53, 
+                            765, 
+                            143
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": true, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            196, 
+                            137, 
+                            765, 
+                            227
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "title's detail", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/text2", 
+                          "adapter-view": false, 
+                          "pointer": "c304750", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            196, 
+                            143, 
+                            406, 
+                            200
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": true, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            196, 
+                            227, 
+                            406, 
+                            284
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        200
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        284
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/viewpager", 
+                      "adapter-view": false, 
+                      "pointer": "e28ed49", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            302, 
+                            1440, 
+                            1317
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            1015
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                302, 
+                                -1438, 
+                                1317
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                1015
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    302, 
+                                    -1808, 
+                                    1317
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    370, 
+                                    0, 
+                                    1070, 
+                                    1015
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "b95536f", 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/preview", 
+                                  "adapter-view": false, 
+                                  "pointer": "4da887c", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    388, 
+                                    14, 
+                                    1053, 
+                                    994
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    316, 
+                                    -1825, 
+                                    1296
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "f2f764e", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": false
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                302, 
+                                1, 
+                                1317
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                1440, 
+                                0, 
+                                2880, 
+                                1015
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    302, 
+                                    -368, 
+                                    1317
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    370, 
+                                    0, 
+                                    1070, 
+                                    1015
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "e10a95a", 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/preview", 
+                                  "adapter-view": false, 
+                                  "pointer": "64db78b", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    388, 
+                                    14, 
+                                    1053, 
+                                    994
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    316, 
+                                    -385, 
+                                    1296
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "28a1505", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                1, 
+                                302, 
+                                1440, 
+                                1317
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                2880, 
+                                0, 
+                                4320, 
+                                1015
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    371, 
+                                    302, 
+                                    1071, 
+                                    1317
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    370, 
+                                    0, 
+                                    1070, 
+                                    1015
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "61bfc81", 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": true
+                                }, 
+                                {
+                                  "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/preview", 
+                                  "adapter-view": false, 
+                                  "pointer": "da00126", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    388, 
+                                    14, 
+                                    1053, 
+                                    994
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    389, 
+                                    316, 
+                                    1054, 
+                                    1296
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "d85b068", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                1441, 
+                                302, 
+                                1440, 
+                                1317
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                4320, 
+                                0, 
+                                5760, 
+                                1015
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1811, 
+                                    302, 
+                                    1440, 
+                                    1317
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    370, 
+                                    0, 
+                                    1070, 
+                                    1015
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "1396b14", 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false
+                                }, 
+                                {
+                                  "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/preview", 
+                                  "adapter-view": false, 
+                                  "pointer": "98adfbd", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    388, 
+                                    14, 
+                                    1053, 
+                                    994
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1829, 
+                                    316, 
+                                    1440, 
+                                    1296
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "6de4167", 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "681319b", 
+                          "class": "com.gau.go.launcherex.gowidget.guide.scoller.ScrollerViewGroup", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        218, 
+                        1440, 
+                        1233
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        302, 
+                        1440, 
+                        1317
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/indicator", 
+                      "adapter-view": false, 
+                      "pointer": "97b09b2", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.ImageView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": true, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            664, 
+                            1317, 
+                            694, 
+                            1391
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            664, 
+                            0, 
+                            694, 
+                            74
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "8038d03", 
+                          "class": "com.gau.go.launcherex.gowidget.guide.indicator.ScreenIndicatorItem", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.ImageView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": true, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            694, 
+                            1317, 
+                            724, 
+                            1391
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            694, 
+                            0, 
+                            724, 
+                            74
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "1cc2480", 
+                          "class": "com.gau.go.launcherex.gowidget.guide.indicator.ScreenIndicatorItem", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.ImageView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": true, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            724, 
+                            1317, 
+                            754, 
+                            1391
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            724, 
+                            0, 
+                            754, 
+                            74
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "20abab9", 
+                          "class": "com.gau.go.launcherex.gowidget.guide.indicator.ScreenIndicatorItem", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.ImageView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": true, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            754, 
+                            1317, 
+                            784, 
+                            1391
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            754, 
+                            0, 
+                            784, 
+                            74
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "78c0efe", 
+                          "class": "com.gau.go.launcherex.gowidget.guide.indicator.ScreenIndicatorItem", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "com.gau.go.launcherex.gowidget.guide.indicator.Indicator", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        1233, 
+                        1440, 
+                        1307
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.gau.go.launcherex.gowidget.guide.indicator.ScreenIndicator", 
+                      "visible-to-user": true, 
+                      "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        1317, 
+                        1440, 
+                        1391
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/detial", 
+                      "adapter-view": false, 
+                      "pointer": "9a7f65f", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "text": "widget is a plugin of GO Launcher EX", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            346, 
+                            1391, 
+                            1093, 
+                            1453
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            346, 
+                            0, 
+                            1093, 
+                            62
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "60f08ac", 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "text": "Don't show again", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/not_show", 
+                          "adapter-view": false, 
+                          "pointer": "a134975", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.CompoundButton", 
+                            "android.widget.Button", 
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.CheckBox", 
+                          "visible-to-user": false, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            1391, 
+                            0, 
+                            1391
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        1307, 
+                        1440, 
+                        1404
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        1391, 
+                        1440, 
+                        1488
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/bottom", 
+                      "adapter-view": false, 
+                      "pointer": "161d0a", 
+                      "children": [
+                        {
+                          "text": "Download GO Launcher EX", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/download", 
+                          "adapter-view": false, 
+                          "pointer": "5ff997b", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            238, 
+                            0, 
+                            1201, 
+                            133
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.Button", 
+                          "visible-to-user": true, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            238, 
+                            1488, 
+                            1201, 
+                            1621
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "Download GO Launcher EX", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/download_golauncher", 
+                          "adapter-view": false, 
+                          "pointer": "eba0398", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.Button", 
+                          "visible-to-user": false, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            1488, 
+                            0, 
+                            1488
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "Got it", 
+                          "resource-id": "com.gau.go.launcherex.gowidget.contactwidget:id/got_it", 
+                          "adapter-view": false, 
+                          "pointer": "1dc07f1", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            0, 
+                            0
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "gone", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.Button", 
+                          "visible-to-user": false, 
+                          "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            1488, 
+                            0, 
+                            1488
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        1404, 
+                        1440, 
+                        1537
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        1488, 
+                        1440, 
+                        1621
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.RelativeLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.gau.go.launcherex.gowidget.contactwidget", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "c6ad11", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "b018938", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "15"
+}

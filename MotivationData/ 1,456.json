@@ -1,0 +1,658 @@
+{
+  "activity_name": "com.noridev.videocallingfree/com.noridev.videocallingfree.ui.activities.authorization.LandingActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2560
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "50eb392", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "scrollable-horizontal": false, 
+              "draw": true, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": false, 
+              "pressed": "not_pressed", 
+              "focusable": false, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "focused": false, 
+              "selected": false, 
+              "scrollable-vertical": false, 
+              "children": [
+                {
+                  "resource-id": "com.noridev.videocallingfree:id/action_bar_root", 
+                  "adapter-view": false, 
+                  "pointer": "54d9160", 
+                  "children": [
+                    {
+                      "resource-id": "android:id/content", 
+                      "adapter-view": false, 
+                      "pointer": "4925619", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            2308
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.noridev.videocallingfree:id/logo_full_imageview", 
+                              "adapter-view": false, 
+                              "pointer": "97e70bf", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1260, 
+                                1082
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": true, 
+                              "package": "com.noridev.videocallingfree", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                1260, 
+                                1166
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "com.noridev.videocallingfree:id/facebook_connect_button", 
+                              "adapter-view": false, 
+                              "pointer": "3ea638c", 
+                              "children": [
+                                {
+                                  "text": "Connect with Facebook", 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "pointer": "f693ad5", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    85, 
+                                    0, 
+                                    964, 
+                                    147
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.support.v7.widget.AppCompatTextView", 
+                                  "visible-to-user": true, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    280, 
+                                    1822, 
+                                    1159, 
+                                    1969
+                                  ], 
+                                  "pressed": "not_pressed"
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                195, 
+                                1738, 
+                                1245, 
+                                1885
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "android.widget.RelativeLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.noridev.videocallingfree", 
+                              "enabled": true, 
+                              "bounds": [
+                                195, 
+                                1822, 
+                                1245, 
+                                1969
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "Sign Up with Email", 
+                              "resource-id": "com.noridev.videocallingfree:id/sign_up_email_button", 
+                              "adapter-view": false, 
+                              "pointer": "57922ea", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.Button", 
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                195, 
+                                1920, 
+                                1245, 
+                                2067
+                              ], 
+                              "draw": false, 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "font-family": "sans-serif-medium", 
+                              "class": "android.support.v7.widget.AppCompatButton", 
+                              "visible-to-user": true, 
+                              "package": "com.noridev.videocallingfree", 
+                              "enabled": true, 
+                              "bounds": [
+                                195, 
+                                2004, 
+                                1245, 
+                                2151
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "Already have an account?", 
+                              "resource-id": "com.noridev.videocallingfree:id/login_button", 
+                              "adapter-view": false, 
+                              "pointer": "83359db", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                384, 
+                                2102, 
+                                1056, 
+                                2243
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "font-family": "sans-serif", 
+                              "class": "android.support.v7.widget.AppCompatTextView", 
+                              "visible-to-user": true, 
+                              "package": "com.noridev.videocallingfree", 
+                              "enabled": true, 
+                              "bounds": [
+                                384, 
+                                2186, 
+                                1056, 
+                                2327
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "v. 12.0.1", 
+                              "resource-id": "com.noridev.videocallingfree:id/app_version_textview", 
+                              "adapter-view": false, 
+                              "pointer": "da02c78", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                654, 
+                                2243, 
+                                785, 
+                                2290
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "sans-serif", 
+                              "class": "android.support.v7.widget.AppCompatTextView", 
+                              "visible-to-user": true, 
+                              "package": "com.noridev.videocallingfree", 
+                              "enabled": true, 
+                              "bounds": [
+                                654, 
+                                2327, 
+                                785, 
+                                2374
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "8e076de", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.FrameLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.internal.widget.ContentFrameLayout", 
+                      "visible-to-user": true, 
+                      "package": "android", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.noridev.videocallingfree:id/action_mode_bar_stub", 
+                      "adapter-view": false, 
+                      "pointer": "78faf51", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        0, 
+                        0
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "gone", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.support.v7.internal.widget.ViewStubCompat", 
+                      "visible-to-user": false, 
+                      "package": "com.noridev.videocallingfree", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        0, 
+                        84
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.FrameLayout", 
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.support.v7.internal.widget.FitWindowsFrameLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.noridev.videocallingfree", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "adapter-view": false, 
+              "abs-pos": true, 
+              "pointer": "6e52163", 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "a9d851d", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }, 
+        {
+          "resource-id": "android:id/navigationBarBackground", 
+          "adapter-view": false, 
+          "pointer": "93e83b6", 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "android.view.View", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            2392, 
+            1440, 
+            2560
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }, 
+        {
+          "resource-id": "android:id/statusBarBackground", 
+          "adapter-view": false, 
+          "pointer": "83b8b7", 
+          "scrollable-horizontal": false, 
+          "ancestors": [
+            "java.lang.Object"
+          ], 
+          "selected": false, 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            84
+          ], 
+          "draw": false, 
+          "focusable": false, 
+          "long-clickable": false, 
+          "visibility": "visible", 
+          "focused": false, 
+          "clickable": false, 
+          "abs-pos": true, 
+          "class": "android.view.View", 
+          "visible-to-user": true, 
+          "package": "android", 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            84
+          ], 
+          "pressed": "not_pressed", 
+          "scrollable-vertical": false
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "dc3c9f4", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "14"
+}

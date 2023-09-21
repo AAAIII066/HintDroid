@@ -1,0 +1,2470 @@
+{
+  "activity_name": "com.nicusa.dnraccess/com.nicusa.dnraccess.FeedMain", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "2afa5b9", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "f5e1dfe", 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "resource-id": "com.nicusa.dnraccess:id/imgFeedBackground", 
+                      "adapter-view": false, 
+                      "pointer": "63d2fac", 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": false, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.ImageView", 
+                      "visible-to-user": true, 
+                      "package": "com.nicusa.dnraccess", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.nicusa.dnraccess:id/lvNews", 
+                      "adapter-view": true, 
+                      "pointer": "8a34467", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            308, 
+                            1426, 
+                            539
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            14, 
+                            1426, 
+                            245
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "47a1c0a", 
+                              "children": [
+                                {
+                                  "text": "Maryland Forest Service Project Manager Named Forester of the Year", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "6452c7b", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    357, 
+                                    1391, 
+                                    490
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "1239a98", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    329, 
+                                    49, 
+                                    329
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                329, 
+                                1391, 
+                                518
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "79be475", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            541, 
+                            1426, 
+                            710
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            247, 
+                            1426, 
+                            416
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "aa5eed6", 
+                              "children": [
+                                {
+                                  "text": "Natural Resources Police Charge Suspected Arsonist", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "6f01557", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    99
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    590, 
+                                    1391, 
+                                    661
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "303c844", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    562, 
+                                    49, 
+                                    562
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                148
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                562, 
+                                1391, 
+                                689
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "ed352f1", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            712, 
+                            1426, 
+                            943
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            418, 
+                            1426, 
+                            649
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "9ea2262", 
+                              "children": [
+                                {
+                                  "text": "Underwater Grasses in Maryland\u2019s Portion of Chesapeake Bay Expand 10 Percent in 2016", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "8f6aff3", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    761, 
+                                    1391, 
+                                    894
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "39724b0", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    733, 
+                                    49, 
+                                    733
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                733, 
+                                1391, 
+                                922
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "8392d2d", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            945, 
+                            1426, 
+                            1114
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            651, 
+                            1426, 
+                            820
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "4c02ae", 
+                              "children": [
+                                {
+                                  "text": "Weekly Fishing Report", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "9c2584f", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    99
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    994, 
+                                    1391, 
+                                    1065
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "ac1dbdc", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    966, 
+                                    49, 
+                                    966
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                148
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                966, 
+                                1391, 
+                                1093
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "4a86f29", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            1116, 
+                            1426, 
+                            1347
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            822, 
+                            1426, 
+                            1053
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "4d99bba", 
+                              "children": [
+                                {
+                                  "text": "New Waterfront Park and Regional Headquarters Slated for Calvert County", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "9f62a6b", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1165, 
+                                    1391, 
+                                    1298
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "87ed9c8", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1137, 
+                                    49, 
+                                    1137
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                1137, 
+                                1391, 
+                                1326
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "dafd4e5", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            1349, 
+                            1426, 
+                            1580
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            1055, 
+                            1426, 
+                            1286
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "f75b986", 
+                              "children": [
+                                {
+                                  "text": "Center for Watershed Protection Honors Department for Innovation and Leadership", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "74b0247", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1398, 
+                                    1391, 
+                                    1531
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "f8bca74", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1370, 
+                                    49, 
+                                    1370
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                1370, 
+                                1391, 
+                                1559
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "d0dda61", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            1582, 
+                            1426, 
+                            1813
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            1288, 
+                            1426, 
+                            1519
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "163e812", 
+                              "children": [
+                                {
+                                  "text": "Environmental Protection Agency Accepting Comment on No-Discharge Zone", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "82b7be3", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1631, 
+                                    1391, 
+                                    1764
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "ed519e0", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1603, 
+                                    49, 
+                                    1603
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                1603, 
+                                1391, 
+                                1792
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "fecbb9d", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            1815, 
+                            1426, 
+                            1984
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            1521, 
+                            1426, 
+                            1690
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "a94735e", 
+                              "children": [
+                                {
+                                  "text": "Police Handle Striped Bass and Turkey Cases", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "50ff33f", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    99
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1864, 
+                                    1391, 
+                                    1935
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "5a1f40c", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    1836, 
+                                    49, 
+                                    1836
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                148
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                1836, 
+                                1391, 
+                                1963
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "1de7499", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            1986, 
+                            1426, 
+                            2155
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            1692, 
+                            1426, 
+                            1861
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "7b0676a", 
+                              "children": [
+                                {
+                                  "text": "Weekly Fishing Report", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "b9a845b", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    99
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    2035, 
+                                    1391, 
+                                    2106
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "e8044f8", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    2007, 
+                                    49, 
+                                    2007
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                148
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                2007, 
+                                1391, 
+                                2134
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "b98c155", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            14, 
+                            2157, 
+                            1426, 
+                            2388
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            14, 
+                            1863, 
+                            1426, 
+                            2094
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.nicusa.dnraccess:id/linearLayout0", 
+                              "adapter-view": false, 
+                              "pointer": "4e59036", 
+                              "children": [
+                                {
+                                  "text": "Survey Finds Resilient Chesapeake Bay Blue Crab Population", 
+                                  "resource-id": "com.nicusa.dnraccess:id/tvContact", 
+                                  "adapter-view": false, 
+                                  "pointer": "7730b37", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    28, 
+                                    1342, 
+                                    161
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "font-family": "sans-serif", 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    2206, 
+                                    1391, 
+                                    2339
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.nicusa.dnraccess:id/imgArrow", 
+                                  "adapter-view": false, 
+                                  "pointer": "cf0b8a4", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    "MD DNR"
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    0, 
+                                    0
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    49, 
+                                    2178, 
+                                    49, 
+                                    2178
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                35, 
+                                21, 
+                                1377, 
+                                210
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.nicusa.dnraccess", 
+                              "enabled": true, 
+                              "bounds": [
+                                49, 
+                                2178, 
+                                1391, 
+                                2367
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "1711dd1", 
+                          "class": "android.widget.RelativeLayout", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.AbsListView", 
+                        "android.widget.AdapterView", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        210, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": false, 
+                      "focusable": true, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": true, 
+                      "clickable": true, 
+                      "abs-pos": true, 
+                      "class": "android.widget.ListView", 
+                      "visible-to-user": true, 
+                      "package": "com.nicusa.dnraccess", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        294, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": true
+                    }, 
+                    {
+                      "resource-id": "com.nicusa.dnraccess:id/incMenu", 
+                      "adapter-view": false, 
+                      "pointer": "d98c60d", 
+                      "children": [
+                        {
+                          "resource-id": "com.nicusa.dnraccess:id/hsvMenu", 
+                          "adapter-view": false, 
+                          "pointer": "17279c2", 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": true, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                2140, 
+                                1440, 
+                                2369
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                28, 
+                                2876, 
+                                257
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "text": "Home", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuHome", 
+                                  "adapter-view": false, 
+                                  "pointer": "9d2bb10", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    245, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    2140, 
+                                    245, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "State Parks", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuStateParks", 
+                                  "adapter-view": false, 
+                                  "pointer": "218b609", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    245, 
+                                    0, 
+                                    496, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    245, 
+                                    2140, 
+                                    496, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Fishing", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuFish", 
+                                  "adapter-view": false, 
+                                  "pointer": "ff2700e", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    496, 
+                                    0, 
+                                    741, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    496, 
+                                    2140, 
+                                    741, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Hunting", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuHunt", 
+                                  "adapter-view": false, 
+                                  "pointer": "1322a2f", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    741, 
+                                    0, 
+                                    986, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    741, 
+                                    2140, 
+                                    986, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Near Me", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuNearMe", 
+                                  "adapter-view": false, 
+                                  "pointer": "a90783c", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    986, 
+                                    0, 
+                                    1231, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    986, 
+                                    2140, 
+                                    1231, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Report Violation", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuReportViolation", 
+                                  "adapter-view": false, 
+                                  "pointer": "e8da9c5", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    1231, 
+                                    0, 
+                                    1581, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": true, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1231, 
+                                    2140, 
+                                    1440, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Trophies", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuTrophy", 
+                                  "adapter-view": false, 
+                                  "pointer": "f697f1a", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    1581, 
+                                    0, 
+                                    1826, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1581, 
+                                    2140, 
+                                    1440, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Water Access", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuWaterAccess", 
+                                  "adapter-view": false, 
+                                  "pointer": "cc13a4b", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    1826, 
+                                    0, 
+                                    2176, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    1826, 
+                                    2140, 
+                                    1440, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Interactive Map", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuInteractiveMap", 
+                                  "adapter-view": false, 
+                                  "pointer": "f0adc28", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    2176, 
+                                    0, 
+                                    2526, 
+                                    229
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    2176, 
+                                    2140, 
+                                    1440, 
+                                    2369
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "Contact Us", 
+                                  "resource-id": "com.nicusa.dnraccess:id/btnMenuContactUs", 
+                                  "adapter-view": false, 
+                                  "pointer": "5a41d41", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.CompoundButton", 
+                                    "android.widget.Button", 
+                                    "android.widget.TextView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    2526, 
+                                    7, 
+                                    2876, 
+                                    222
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ToggleButton", 
+                                  "visible-to-user": false, 
+                                  "package": "com.nicusa.dnraccess", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    2526, 
+                                    2147, 
+                                    1440, 
+                                    2362
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "ce323d3", 
+                              "class": "android.widget.LinearLayout", 
+                              "visible-to-user": true
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.HorizontalScrollView", 
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            3, 
+                            1440, 
+                            283
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "com.nicusa.dnraccess.HorizontalScrollMenu", 
+                          "visible-to-user": true, 
+                          "package": "com.nicusa.dnraccess", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            2112, 
+                            1440, 
+                            2392
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        2025, 
+                        1440, 
+                        2308
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.nicusa.dnraccess", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        2109, 
+                        1440, 
+                        2392
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "8aa595f", 
+                  "class": "android.widget.FrameLayout", 
+                  "visible-to-user": true
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "995db80", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "495c003", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "13"
+}
