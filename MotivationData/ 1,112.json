@@ -1,0 +1,478 @@
+{
+  "activity_name": "com.droid27.digitalclockweather/com.droid27.weatherinterface.MapActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        252, 
+        140, 
+        952, 
+        1308
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        700, 
+        1168
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.widget.FrameLayout", 
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            252, 
+            140, 
+            952, 
+            1308
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            700, 
+            1168
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "scrollable-horizontal": false, 
+              "draw": false, 
+              "ancestors": [
+                "android.widget.ListView", 
+                "android.widget.AbsListView", 
+                "android.widget.AdapterView", 
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "clickable": true, 
+              "pressed": "not_pressed", 
+              "focusable": true, 
+              "long-clickable": false, 
+              "enabled": true, 
+              "bounds": [
+                252, 
+                140, 
+                952, 
+                1308
+              ], 
+              "visibility": "visible", 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                700, 
+                1168
+              ], 
+              "focused": true, 
+              "selected": false, 
+              "scrollable-vertical": true, 
+              "children": [
+                {
+                  "text": "Map", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "af74cc4", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    700, 
+                    146
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    140, 
+                    952, 
+                    286
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Clouds", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "84797ad", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    146, 
+                    700, 
+                    292
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    286, 
+                    952, 
+                    432
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Precipitation", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "3807ae2", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    292, 
+                    700, 
+                    438
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    432, 
+                    952, 
+                    578
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Rain", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "ff15e73", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    438, 
+                    700, 
+                    584
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    578, 
+                    952, 
+                    724
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Snow", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "47e7130", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    584, 
+                    700, 
+                    730
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    724, 
+                    952, 
+                    870
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Pressure", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "b7301a9", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    730, 
+                    700, 
+                    876
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    870, 
+                    952, 
+                    1016
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Wind", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "c2f632e", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    876, 
+                    700, 
+                    1022
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    1016, 
+                    952, 
+                    1162
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }, 
+                {
+                  "text": "Temperature", 
+                  "resource-id": "android:id/text1", 
+                  "adapter-view": false, 
+                  "pointer": "3f96ecf", 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.widget.CheckedTextView", 
+                    "android.widget.TextView", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    1022, 
+                    700, 
+                    1168
+                  ], 
+                  "draw": false, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "font-family": "sans-serif", 
+                  "class": "android.support.v7.widget.AppCompatCheckedTextView", 
+                  "visible-to-user": true, 
+                  "package": "android", 
+                  "enabled": true, 
+                  "bounds": [
+                    252, 
+                    1162, 
+                    952, 
+                    1308
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "adapter-view": true, 
+              "abs-pos": true, 
+              "pointer": "dc16ae7", 
+              "class": "android.widget.ListPopupWindow$DropDownListView", 
+              "visible-to-user": true
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "6ade53d", 
+          "class": "android.widget.PopupWindow$PopupBackgroundView", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "f971694", 
+      "class": "android.widget.PopupWindow$PopupDecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "7843"
+}

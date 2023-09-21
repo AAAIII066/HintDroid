@@ -1,0 +1,751 @@
+{
+  "activity_name": "com.cp.mpos/com.cp.mpos.userauth.activity.EulaActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "b64fffd", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "aae44f2", 
+              "children": [
+                {
+                  "resource-id": "com.cp.mpos:id/parentLayoutEula", 
+                  "adapter-view": false, 
+                  "pointer": "a614743", 
+                  "children": [
+                    {
+                      "resource-id": "com.cp.mpos:id/headerView", 
+                      "adapter-view": false, 
+                      "pointer": "ff3f1c0", 
+                      "children": [
+                        {
+                          "resource-id": "com.cp.mpos:id/mainLayoutHeader", 
+                          "adapter-view": false, 
+                          "pointer": "9069ef9", 
+                          "children": [
+                            {
+                              "text": "Agreement", 
+                              "resource-id": "com.cp.mpos:id/textViewHeaderText", 
+                              "adapter-view": false, 
+                              "pointer": "9d7be3e", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                161
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "default", 
+                              "class": "com.cp.mpos.view.CPMPOSTextView", 
+                              "visible-to-user": true, 
+                              "package": "com.cp.mpos", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                1440, 
+                                245
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "", 
+                              "resource-id": "com.cp.mpos:id/textViewSmallHeaderText", 
+                              "adapter-view": false, 
+                              "pointer": "ec7149f", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "default", 
+                              "class": "com.cp.mpos.view.CPMPOSTextView", 
+                              "visible-to-user": false, 
+                              "package": "com.cp.mpos", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                0, 
+                                84
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "resource-id": "com.cp.mpos:id/imageViewHeader", 
+                              "adapter-view": false, 
+                              "pointer": "50669ec", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "gone", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "android.widget.ImageView", 
+                              "visible-to-user": false, 
+                              "package": "com.cp.mpos", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                84, 
+                                0, 
+                                84
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            161
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.LinearLayout", 
+                          "visible-to-user": true, 
+                          "package": "com.cp.mpos", 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            84, 
+                            1440, 
+                            245
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.widget.LinearLayout", 
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        161
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "com.cp.mpos.view.HeaderView", 
+                      "visible-to-user": true, 
+                      "package": "com.cp.mpos", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        245
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.cp.mpos:id/linearLayout1", 
+                      "adapter-view": false, 
+                      "pointer": "8931b5", 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            280, 
+                            1440, 
+                            348
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            68
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "e8d804a", 
+                          "class": "android.widget.ImageView", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "text": "MOBILE PAYMENT SOLUTIONS", 
+                          "scrollable-vertical": false, 
+                          "adapter-view": false, 
+                          "pointer": "2925bbb", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            329, 
+                            121, 
+                            1110, 
+                            197
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "com.cp.mpos.view.CPMPOSTextView", 
+                          "visible-to-user": true, 
+                          "enabled": true, 
+                          "bounds": [
+                            329, 
+                            401, 
+                            1110, 
+                            477
+                          ], 
+                          "pressed": "not_pressed"
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": false, 
+                          "ancestors": [
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            70, 
+                            513, 
+                            1370, 
+                            2135
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            70, 
+                            233, 
+                            1370, 
+                            1855
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": true, 
+                          "children": [
+                            {
+                              "text": "This End User License Agreement (\"License Agreement\") is a legal agreement between you, an individual, acting in your capacity as an authorized representative, agent, subcontractor, or employee of a U.S. or Canadian business that uses Licensor's payment processing services pursuant to a merchant agreement (hereinafter referred to as \"you\" or \"your\"), and Paymentech, LLC, a Delaware limited liability company, and/or  Chase Paymentech Solutions, an Ontario general partnership (Paymentech, LLC and Chase Paymentech Solutions collectively referred to herein as \"Licensor\", \"us,\" \"we,\" or \"our\"), as applicable.  This License Agreement relates only to your use of the Chase Mobile Checkout application, together with any and all embedded APIs (whether owned by Licensor or third-parties), associated media, downloadable materials, documentation, upgrades or add-ons, and all other Licensor materials associated with the Chase Mobile Checkout application (collectively, the \"Application\"). \r\nBy installing, copying or otherwise using the Application, you agree to be bound by the terms of this License Agreement.  \r\n1. Grant of License. Licensor hereby grants a non-exclusive, non-transferable, limited personal license to install the Application on your mobile device and use the Application for your personal use for business purposes only, solely within the Territory currently defined as the United States (excluding U.S. territories) and Canada (excluding Quebec).  You may not, and will not allow or cause any third party to: (a) decompile, reverse engineer, disassemble, attempt to access, view or derive the source code of,  or modify the Application, install or use the Application on a \"jailbroken\" or \"rooted\" device, or use the Application to develop functionally similar Applications; (b) copy the Application, except as expressly permitted by this Agreement; (c) sublicense, distribute, export or resell the Application or otherwise transfer any rights; (d) remove any proprietary or intellectual property rights notices or labels on the Application; (e) otherwise exercise any other right to the Application not expressly granted in this License Agreement; or (f) use the Application outside of the Territory. \r\n2. Ownership of Application.  Licensor or other third parties own, and shall retain, all right, title and interest in and to the Application (together with all associated materials and content, embedded APIs, etc.), including all patent, copyright, trademark, trade secret, and other intellectual property rights.  No license or other right in or to the Application is granted to you except for the rights specifically set forth in this License Agreement.   \r\n3. Consent to Use of Data.  You agree that Licensor may collect and use technical data and related information, including but not limited to technical information about your device, system and application software and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to the Application. Licensor may also use this information to improve its products or to provide services or technologies to you. \r\n4. Termination.  This License Agreement is valid until terminated by you or Licensor. Licensor may terminate the License at any time or for any reason. Your rights under this License will terminate immediately if you breach any term of this License. Upon termination of this License, you shall immediately discontinue use of the Application and delete all copies of the Application. \r\n5. Disclaimer of Warranty.  YOU UNDERSTAND AND AGREE THAT THE APPLICATION IS PROVIDED ON AN \"AS IS\" BASIS, WITHOUT WARRANTY OF ANY KIND, AND LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS WITH RESPECT TO THE APPLICATION, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.  LICENSOR DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE APPLICATION; THAT THE FUNCTIONS CONTAINED IN, OR SERVICES PERFORMED OR PROVIDED BY, THE APPLICATION WILL MEET YOUR REQUIRMENTS; THAT THE OPERATION OF THE APPLICATION WILL BE UNINTERRUPTED OR ERROR-FREE; OR THAT DEFECTS IN THE APPLICATION WILL BE CORRECTED.\r\n6. Limitation of Liability. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR AND ITS ASSOCIATED SERVICE PROVIDERS SHALL NOT BE RESPONSIBLE FOR ANY LOSS, DAMAGE OR INJURY OR FOR ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOST PROFITS, ARISING FROM OR RELATED TO THE APPLICATION AND/OR THE INSTALLATION OR MAINTENENACE THEREOF, FAILURE OF ELECTRONIC OR MECHANICAL EQUIPMENT, ERRORS, CONFIGURATION OR INCOMPATIBILITY PROBLEMS, PROBLEMS OR DELAYS WITH INTERMEDIATE COMPUTER OR COMMUNICATIONS NETWORKS, OR ANY OTHER PROBLEMS YOU EXPERIENCE DUE TO CAUSES BEYOND OUR CONTROL.\r\n7.  Injunctive/Equitable Relief. Each party (including any third party beneficiary hereto) understands and acknowledges that any disclosure or misappropriation of any of information concerning the Application in violation of this Agreement may cause Licensor irreparable harm, and that money damages may be an inadequate remedy for such harm.  On that basis, each party agrees that Licensor shall have the right to apply to a court of competent jurisdiction for equitable relief restraining any such further disclosure or misappropriation, such right of Licensor to be in addition to the remedies otherwise available to Licensor at law or in equity. \r\n8. Miscellaneous.   This License Agreement and its enforcement shall be governed by the laws of the State of New York, without regard to any choice of law provision. Your use of the Application may also be subject to other local, state, national, provincial, or international laws. If either party waives any provision of this License Agreement, that waiver is not deemed to be a continuing waiver of the same or any other provision. If any provision of this License Agreement is found to be unenforceable for any reason, such provision will be deemed to be restated to reflect as nearly as possible the original intentions of the parties in accordance with applicable law. The remaining provisions of this License Agreement will not be affected thereby, and each of those provisions will be valid and enforceable to the full extent permitted by law. Any rights not expressly granted in this License Agreement are reserved by Licensor. Each associated service provider of Licensor is an intended third party beneficiary of this License Agreement and is entitled to rely upon all rights, representations, warranties and covenants made in this Agreement.", 
+                              "resource-id": "com.cp.mpos:id/eulatext", 
+                              "adapter-view": false, 
+                              "pointer": "f683431", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1300, 
+                                7646
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "font-family": "default", 
+                              "class": "com.cp.mpos.view.CPMPOSTextView", 
+                              "visible-to-user": true, 
+                              "package": "com.cp.mpos", 
+                              "enabled": true, 
+                              "bounds": [
+                                70, 
+                                513, 
+                                1370, 
+                                2135
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "de638d8", 
+                          "class": "android.widget.ScrollView", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        196, 
+                        1440, 
+                        2051
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.cp.mpos", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        280, 
+                        1440, 
+                        2135
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "resource-id": "com.cp.mpos:id/relativelayout2", 
+                      "adapter-view": false, 
+                      "pointer": "e2b5716", 
+                      "children": [
+                        {
+                          "text": "Disagree", 
+                          "resource-id": "com.cp.mpos:id/buttonDisagree", 
+                          "adapter-view": false, 
+                          "pointer": "e00f897", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.Button", 
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            660, 
+                            152
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "com.cp.mpos.view.CPMPOSButton", 
+                          "visible-to-user": true, 
+                          "package": "com.cp.mpos", 
+                          "enabled": true, 
+                          "bounds": [
+                            42, 
+                            2205, 
+                            702, 
+                            2357
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "Agree", 
+                          "resource-id": "com.cp.mpos:id/buttonAgree", 
+                          "adapter-view": false, 
+                          "pointer": "df20a84", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.Button", 
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            696, 
+                            0, 
+                            1356, 
+                            152
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "com.cp.mpos.view.CPMPOSButton", 
+                          "visible-to-user": true, 
+                          "package": "com.cp.mpos", 
+                          "enabled": true, 
+                          "bounds": [
+                            738, 
+                            2205, 
+                            1398, 
+                            2357
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        42, 
+                        2121, 
+                        1398, 
+                        2273
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.cp.mpos", 
+                      "enabled": true, 
+                      "bounds": [
+                        42, 
+                        2205, 
+                        1398, 
+                        2357
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.LinearLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.cp.mpos", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "622e454", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "888d7a7", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "1"
+}

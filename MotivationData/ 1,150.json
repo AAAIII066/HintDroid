@@ -1,0 +1,1498 @@
+{
+  "activity_name": "com.cp.mpos/com.cp.mpos.userauth.activity.LoginActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1440, 
+        2392
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            0, 
+            0, 
+            1440, 
+            2392
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "9e90bd7", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "91fbcc4", 
+              "children": [
+                {
+                  "resource-id": "com.cp.mpos:id/parentLayout", 
+                  "adapter-view": false, 
+                  "pointer": "19f47ad", 
+                  "children": [
+                    {
+                      "resource-id": "com.cp.mpos:id/mainLayout", 
+                      "adapter-view": false, 
+                      "pointer": "5766ae2", 
+                      "children": [
+                        {
+                          "resource-id": "com.cp.mpos:id/mainHeaderImage", 
+                          "adapter-view": false, 
+                          "pointer": "4c88e73", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            227, 
+                            47, 
+                            1212, 
+                            136
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ImageView", 
+                          "visible-to-user": true, 
+                          "package": "com.cp.mpos", 
+                          "enabled": true, 
+                          "bounds": [
+                            227, 
+                            131, 
+                            1212, 
+                            220
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.cp.mpos:id/id_appinfo", 
+                          "adapter-view": false, 
+                          "pointer": "4bde130", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            1330, 
+                            47, 
+                            1405, 
+                            122
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "class": "android.widget.ImageView", 
+                          "visible-to-user": true, 
+                          "package": "com.cp.mpos", 
+                          "enabled": true, 
+                          "bounds": [
+                            1330, 
+                            131, 
+                            1405, 
+                            206
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        1440, 
+                        183
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.RelativeLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.cp.mpos", 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        84, 
+                        1440, 
+                        267
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }, 
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        0, 
+                        267, 
+                        1440, 
+                        2392
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        183, 
+                        1440, 
+                        2308
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            267, 
+                            1440, 
+                            1542
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            1440, 
+                            1275
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": false, 
+                              "ancestors": [
+                                "android.widget.FrameLayout", 
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": false, 
+                              "pressed": "not_pressed", 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                267, 
+                                1440, 
+                                1542
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                1275
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": true, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": true, 
+                                  "ancestors": [
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": false, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    267, 
+                                    1440, 
+                                    1327
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    1440, 
+                                    1060
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "children": [
+                                    {
+                                      "resource-id": "com.cp.mpos:id/loginLayout", 
+                                      "adapter-view": false, 
+                                      "pointer": "56ebf65", 
+                                      "children": [
+                                        {
+                                          "text": "", 
+                                          "resource-id": "com.cp.mpos:id/edittextUsername", 
+                                          "adapter-view": false, 
+                                          "pointer": "b96743a", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.widget.EditText", 
+                                            "android.widget.TextView", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            6, 
+                                            1356, 
+                                            138
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": true, 
+                                          "long-clickable": true, 
+                                          "visibility": "visible", 
+                                          "text-hint": "Enter your User Name", 
+                                          "focused": true, 
+                                          "clickable": true, 
+                                          "abs-pos": true, 
+                                          "font-family": "default", 
+                                          "class": "com.cp.mpos.view.CPMPOSEditText", 
+                                          "visible-to-user": true, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            42, 
+                                            324, 
+                                            1398, 
+                                            456
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "text": "", 
+                                          "resource-id": "com.cp.mpos:id/edittextPassword", 
+                                          "adapter-view": false, 
+                                          "pointer": "55558eb", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.widget.EditText", 
+                                            "android.widget.TextView", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            144, 
+                                            1356, 
+                                            276
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": true, 
+                                          "long-clickable": true, 
+                                          "visibility": "visible", 
+                                          "text-hint": "Enter your Password", 
+                                          "focused": false, 
+                                          "clickable": true, 
+                                          "abs-pos": true, 
+                                          "font-family": "default", 
+                                          "class": "com.cp.mpos.view.CPMPOSEditText", 
+                                          "visible-to-user": true, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            42, 
+                                            462, 
+                                            1398, 
+                                            594
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "resource-id": "com.cp.mpos:id/saveUserLayout", 
+                                          "adapter-view": false, 
+                                          "pointer": "730a648", 
+                                          "children": [
+                                            {
+                                              "text": "", 
+                                              "resource-id": "com.cp.mpos:id/checkBoxSaveUserId", 
+                                              "adapter-view": false, 
+                                              "pointer": "610ece1", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.CompoundButton", 
+                                                "android.widget.Button", 
+                                                "android.widget.TextView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                0, 
+                                                133, 
+                                                168
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": true, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": true, 
+                                              "abs-pos": true, 
+                                              "class": "android.widget.CheckBox", 
+                                              "visible-to-user": true, 
+                                              "package": "com.cp.mpos", 
+                                              "enabled": false, 
+                                              "bounds": [
+                                                42, 
+                                                612, 
+                                                175, 
+                                                780
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }, 
+                                            {
+                                              "text": "Save User Name", 
+                                              "resource-id": "com.cp.mpos:id/saveuserid", 
+                                              "adapter-view": false, 
+                                              "pointer": "4679a06", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.TextView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                133, 
+                                                48, 
+                                                526, 
+                                                119
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": false, 
+                                              "abs-pos": true, 
+                                              "font-family": "default", 
+                                              "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                              "visible-to-user": true, 
+                                              "package": "com.cp.mpos", 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                175, 
+                                                660, 
+                                                568, 
+                                                731
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }
+                                          ], 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            294, 
+                                            1356, 
+                                            462
+                                          ], 
+                                          "draw": true, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.LinearLayout", 
+                                          "visible-to-user": true, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            42, 
+                                            612, 
+                                            1398, 
+                                            780
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "resource-id": "com.cp.mpos:id/buttonLogonLayout", 
+                                          "adapter-view": false, 
+                                          "pointer": "7ae98c7", 
+                                          "children": [
+                                            {
+                                              "text": "Log On", 
+                                              "resource-id": "com.cp.mpos:id/buttonLogin", 
+                                              "adapter-view": false, 
+                                              "pointer": "8cddef4", 
+                                              "scrollable-horizontal": false, 
+                                              "ancestors": [
+                                                "android.widget.Button", 
+                                                "android.widget.TextView", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "selected": false, 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                18, 
+                                                1356, 
+                                                160
+                                              ], 
+                                              "draw": false, 
+                                              "focusable": true, 
+                                              "long-clickable": false, 
+                                              "visibility": "visible", 
+                                              "focused": false, 
+                                              "clickable": false, 
+                                              "abs-pos": true, 
+                                              "font-family": "default", 
+                                              "class": "com.cp.mpos.view.CPMPOSButton", 
+                                              "visible-to-user": true, 
+                                              "package": "com.cp.mpos", 
+                                              "enabled": false, 
+                                              "bounds": [
+                                                42, 
+                                                798, 
+                                                1398, 
+                                                940
+                                              ], 
+                                              "pressed": "not_pressed", 
+                                              "scrollable-vertical": false
+                                            }
+                                          ], 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            462, 
+                                            1356, 
+                                            622
+                                          ], 
+                                          "draw": true, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.LinearLayout", 
+                                          "visible-to-user": true, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            42, 
+                                            780, 
+                                            1398, 
+                                            940
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }, 
+                                        {
+                                          "text": "Forgot Password?", 
+                                          "resource-id": "com.cp.mpos:id/textview_forgotpassword", 
+                                          "adapter-view": false, 
+                                          "pointer": "e4e761d", 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.widget.TextView", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            462, 
+                                            745, 
+                                            893, 
+                                            816
+                                          ], 
+                                          "draw": false, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": true, 
+                                          "abs-pos": true, 
+                                          "font-family": "default", 
+                                          "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                          "visible-to-user": true, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            504, 
+                                            1063, 
+                                            935, 
+                                            1134
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }
+                                      ], 
+                                      "scrollable-horizontal": false, 
+                                      "ancestors": [
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "selected": false, 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        42, 
+                                        51, 
+                                        1398, 
+                                        1060
+                                      ], 
+                                      "draw": true, 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "visibility": "visible", 
+                                      "focused": false, 
+                                      "clickable": false, 
+                                      "abs-pos": true, 
+                                      "class": "android.widget.LinearLayout", 
+                                      "visible-to-user": true, 
+                                      "package": "com.cp.mpos", 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        42, 
+                                        318, 
+                                        1398, 
+                                        1327
+                                      ], 
+                                      "pressed": "not_pressed", 
+                                      "scrollable-vertical": false
+                                    }
+                                  ], 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "d7e05c", 
+                                  "class": "android.widget.LinearLayout", 
+                                  "visible-to-user": true
+                                }
+                              ], 
+                              "adapter-view": false, 
+                              "abs-pos": true, 
+                              "pointer": "7139ecf", 
+                              "class": "android.widget.ScrollView", 
+                              "visible-to-user": true
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "f94532e", 
+                          "class": "android.widget.LinearLayout", 
+                          "visible-to-user": true
+                        }, 
+                        {
+                          "scrollable-horizontal": false, 
+                          "draw": true, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "clickable": false, 
+                          "pressed": "not_pressed", 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "enabled": true, 
+                          "bounds": [
+                            0, 
+                            1542, 
+                            1440, 
+                            2392
+                          ], 
+                          "visibility": "visible", 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            1275, 
+                            1440, 
+                            2125
+                          ], 
+                          "focused": false, 
+                          "selected": false, 
+                          "scrollable-vertical": false, 
+                          "children": [
+                            {
+                              "resource-id": "com.cp.mpos:id/drawer", 
+                              "adapter-view": false, 
+                              "pointer": "d71fa63", 
+                              "children": [
+                                {
+                                  "resource-id": "com.cp.mpos:id/handle", 
+                                  "adapter-view": false, 
+                                  "pointer": "f63f660", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    752, 
+                                    1440, 
+                                    850
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": true, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ImageView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.cp.mpos", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    2294, 
+                                    1440, 
+                                    2392
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "resource-id": "com.cp.mpos:id/content", 
+                                  "adapter-view": false, 
+                                  "pointer": "e15719", 
+                                  "children": [
+                                    {
+                                      "scrollable-horizontal": false, 
+                                      "draw": true, 
+                                      "ancestors": [
+                                        "android.view.ViewGroup", 
+                                        "android.view.View", 
+                                        "java.lang.Object"
+                                      ], 
+                                      "clickable": false, 
+                                      "pressed": "not_pressed", 
+                                      "focusable": false, 
+                                      "long-clickable": false, 
+                                      "enabled": true, 
+                                      "bounds": [
+                                        0, 
+                                        1640, 
+                                        1440, 
+                                        2215
+                                      ], 
+                                      "visibility": "visible", 
+                                      "content-desc": [
+                                        null
+                                      ], 
+                                      "rel-bounds": [
+                                        0, 
+                                        0, 
+                                        1440, 
+                                        575
+                                      ], 
+                                      "focused": false, 
+                                      "selected": false, 
+                                      "scrollable-vertical": false, 
+                                      "children": [
+                                        {
+                                          "resource-id": "com.cp.mpos:id/linearLayoutNewUser", 
+                                          "adapter-view": false, 
+                                          "pointer": "e7fd9bf", 
+                                          "children": [
+                                            {
+                                              "scrollable-horizontal": false, 
+                                              "draw": true, 
+                                              "ancestors": [
+                                                "android.view.ViewGroup", 
+                                                "android.view.View", 
+                                                "java.lang.Object"
+                                              ], 
+                                              "clickable": false, 
+                                              "pressed": "not_pressed", 
+                                              "focusable": false, 
+                                              "long-clickable": false, 
+                                              "enabled": true, 
+                                              "bounds": [
+                                                0, 
+                                                1640, 
+                                                1440, 
+                                                2215
+                                              ], 
+                                              "visibility": "visible", 
+                                              "content-desc": [
+                                                null
+                                              ], 
+                                              "rel-bounds": [
+                                                0, 
+                                                0, 
+                                                1440, 
+                                                575
+                                              ], 
+                                              "focused": false, 
+                                              "selected": false, 
+                                              "scrollable-vertical": false, 
+                                              "children": [
+                                                {
+                                                  "resource-id": "com.cp.mpos:id/ll1", 
+                                                  "adapter-view": false, 
+                                                  "pointer": "8274bd5", 
+                                                  "children": [
+                                                    {
+                                                      "text": "Tools", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewTools", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "d945fea", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        0, 
+                                                        0, 
+                                                        242, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        35, 
+                                                        1640, 
+                                                        277, 
+                                                        1901
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }, 
+                                                    {
+                                                      "text": "Learn", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewLearn", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "66252db", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        564, 
+                                                        0, 
+                                                        806, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        599, 
+                                                        1640, 
+                                                        841, 
+                                                        1901
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }, 
+                                                    {
+                                                      "text": "Test Drive", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewTestDrive", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "d7e3178", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        1128, 
+                                                        0, 
+                                                        1370, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        1163, 
+                                                        1640, 
+                                                        1405, 
+                                                        1901
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }
+                                                  ], 
+                                                  "scrollable-horizontal": false, 
+                                                  "ancestors": [
+                                                    "android.view.ViewGroup", 
+                                                    "android.view.View", 
+                                                    "java.lang.Object"
+                                                  ], 
+                                                  "selected": false, 
+                                                  "content-desc": [
+                                                    null
+                                                  ], 
+                                                  "rel-bounds": [
+                                                    35, 
+                                                    0, 
+                                                    1405, 
+                                                    261
+                                                  ], 
+                                                  "draw": true, 
+                                                  "focusable": false, 
+                                                  "long-clickable": false, 
+                                                  "visibility": "visible", 
+                                                  "focused": false, 
+                                                  "clickable": false, 
+                                                  "abs-pos": true, 
+                                                  "class": "android.widget.RelativeLayout", 
+                                                  "visible-to-user": false, 
+                                                  "package": "com.cp.mpos", 
+                                                  "enabled": true, 
+                                                  "bounds": [
+                                                    35, 
+                                                    1640, 
+                                                    1405, 
+                                                    1901
+                                                  ], 
+                                                  "pressed": "not_pressed", 
+                                                  "scrollable-vertical": false
+                                                }, 
+                                                {
+                                                  "scrollable-horizontal": false, 
+                                                  "draw": true, 
+                                                  "ancestors": [
+                                                    "android.view.ViewGroup", 
+                                                    "android.view.View", 
+                                                    "java.lang.Object"
+                                                  ], 
+                                                  "clickable": false, 
+                                                  "pressed": "not_pressed", 
+                                                  "focusable": false, 
+                                                  "long-clickable": false, 
+                                                  "enabled": true, 
+                                                  "bounds": [
+                                                    35, 
+                                                    1954, 
+                                                    1405, 
+                                                    2215
+                                                  ], 
+                                                  "visibility": "visible", 
+                                                  "content-desc": [
+                                                    null
+                                                  ], 
+                                                  "rel-bounds": [
+                                                    35, 
+                                                    314, 
+                                                    1405, 
+                                                    575
+                                                  ], 
+                                                  "focused": false, 
+                                                  "selected": false, 
+                                                  "scrollable-vertical": false, 
+                                                  "children": [
+                                                    {
+                                                      "text": "Sign Up", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewSignUp", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "45090b6", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        0, 
+                                                        0, 
+                                                        242, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        35, 
+                                                        1954, 
+                                                        277, 
+                                                        2215
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }, 
+                                                    {
+                                                      "text": "About Us", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewAboutUs", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "52941b7", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        564, 
+                                                        0, 
+                                                        806, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        599, 
+                                                        1954, 
+                                                        841, 
+                                                        2215
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }, 
+                                                    {
+                                                      "text": "Contact Us", 
+                                                      "resource-id": "com.cp.mpos:id/imageViewContactUs", 
+                                                      "adapter-view": false, 
+                                                      "pointer": "f20ed24", 
+                                                      "scrollable-horizontal": false, 
+                                                      "ancestors": [
+                                                        "android.widget.TextView", 
+                                                        "android.view.View", 
+                                                        "java.lang.Object"
+                                                      ], 
+                                                      "selected": false, 
+                                                      "content-desc": [
+                                                        null
+                                                      ], 
+                                                      "rel-bounds": [
+                                                        1106, 
+                                                        0, 
+                                                        1370, 
+                                                        261
+                                                      ], 
+                                                      "draw": false, 
+                                                      "focusable": false, 
+                                                      "long-clickable": false, 
+                                                      "visibility": "visible", 
+                                                      "focused": false, 
+                                                      "clickable": true, 
+                                                      "abs-pos": true, 
+                                                      "font-family": "default", 
+                                                      "class": "com.cp.mpos.view.CPMPOSTextView", 
+                                                      "visible-to-user": false, 
+                                                      "package": "com.cp.mpos", 
+                                                      "enabled": true, 
+                                                      "bounds": [
+                                                        1141, 
+                                                        1954, 
+                                                        1405, 
+                                                        2215
+                                                      ], 
+                                                      "pressed": "not_pressed", 
+                                                      "scrollable-vertical": false
+                                                    }
+                                                  ], 
+                                                  "adapter-view": false, 
+                                                  "abs-pos": true, 
+                                                  "pointer": "c9dd051", 
+                                                  "class": "android.widget.RelativeLayout", 
+                                                  "visible-to-user": false
+                                                }
+                                              ], 
+                                              "adapter-view": false, 
+                                              "abs-pos": true, 
+                                              "pointer": "982188c", 
+                                              "class": "android.widget.RelativeLayout", 
+                                              "visible-to-user": false
+                                            }
+                                          ], 
+                                          "scrollable-horizontal": false, 
+                                          "ancestors": [
+                                            "android.view.ViewGroup", 
+                                            "android.view.View", 
+                                            "java.lang.Object"
+                                          ], 
+                                          "selected": false, 
+                                          "content-desc": [
+                                            null
+                                          ], 
+                                          "rel-bounds": [
+                                            0, 
+                                            0, 
+                                            1440, 
+                                            575
+                                          ], 
+                                          "draw": true, 
+                                          "focusable": false, 
+                                          "long-clickable": false, 
+                                          "visibility": "visible", 
+                                          "focused": false, 
+                                          "clickable": false, 
+                                          "abs-pos": true, 
+                                          "class": "android.widget.RelativeLayout", 
+                                          "visible-to-user": false, 
+                                          "package": "com.cp.mpos", 
+                                          "enabled": true, 
+                                          "bounds": [
+                                            0, 
+                                            1640, 
+                                            1440, 
+                                            2215
+                                          ], 
+                                          "pressed": "not_pressed", 
+                                          "scrollable-vertical": false
+                                        }
+                                      ], 
+                                      "adapter-view": false, 
+                                      "abs-pos": true, 
+                                      "pointer": "ed1e3de", 
+                                      "class": "android.widget.RelativeLayout", 
+                                      "visible-to-user": false
+                                    }
+                                  ], 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.widget.FrameLayout", 
+                                    "android.view.ViewGroup", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": false, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    98, 
+                                    1440, 
+                                    850
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": true, 
+                                  "long-clickable": false, 
+                                  "visibility": "gone", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.ScrollView", 
+                                  "visible-to-user": false, 
+                                  "package": "com.cp.mpos", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    0, 
+                                    1640, 
+                                    1440, 
+                                    2392
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": true
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                1440, 
+                                850
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": false, 
+                              "abs-pos": true, 
+                              "class": "com.cp.mpos.widget.MultiDirectionSlidingDrawer", 
+                              "visible-to-user": true, 
+                              "package": "com.cp.mpos", 
+                              "enabled": true, 
+                              "bounds": [
+                                0, 
+                                1542, 
+                                1440, 
+                                2392
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "adapter-view": false, 
+                          "abs-pos": true, 
+                          "pointer": "6d35092", 
+                          "class": "android.widget.LinearLayout", 
+                          "visible-to-user": true
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "a95b1a9", 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true
+                    }
+                  ], 
+                  "scrollable-horizontal": false, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "selected": false, 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    1440, 
+                    2308
+                  ], 
+                  "draw": true, 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "visibility": "visible", 
+                  "focused": false, 
+                  "clickable": false, 
+                  "abs-pos": true, 
+                  "class": "android.widget.LinearLayout", 
+                  "visible-to-user": true, 
+                  "package": "com.cp.mpos", 
+                  "enabled": true, 
+                  "bounds": [
+                    0, 
+                    84, 
+                    1440, 
+                    2392
+                  ], 
+                  "pressed": "not_pressed", 
+                  "scrollable-vertical": false
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                0, 
+                84, 
+                1440, 
+                2392
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "3a6af56", 
+          "class": "android.widget.LinearLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "954c571", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "285"
+}

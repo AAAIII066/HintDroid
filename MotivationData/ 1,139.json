@@ -1,0 +1,790 @@
+{
+  "activity_name": "com.hp.pregnancy.lite/com.hp.pregnancy.lite.LandingScreenPhoneActivity", 
+  "activity": {
+    "root": {
+      "scrollable-horizontal": false, 
+      "draw": true, 
+      "ancestors": [
+        "android.widget.FrameLayout", 
+        "android.view.ViewGroup", 
+        "android.view.View", 
+        "java.lang.Object"
+      ], 
+      "clickable": false, 
+      "pressed": "not_pressed", 
+      "focusable": false, 
+      "long-clickable": false, 
+      "enabled": true, 
+      "bounds": [
+        203, 
+        270, 
+        1236, 
+        2206
+      ], 
+      "visibility": "visible", 
+      "content-desc": [
+        null
+      ], 
+      "rel-bounds": [
+        0, 
+        0, 
+        1033, 
+        1936
+      ], 
+      "focused": false, 
+      "selected": false, 
+      "scrollable-vertical": false, 
+      "children": [
+        {
+          "scrollable-horizontal": false, 
+          "draw": true, 
+          "ancestors": [
+            "android.view.ViewGroup", 
+            "android.view.View", 
+            "java.lang.Object"
+          ], 
+          "clickable": false, 
+          "pressed": "not_pressed", 
+          "focusable": false, 
+          "long-clickable": false, 
+          "enabled": true, 
+          "bounds": [
+            247, 
+            305, 
+            1192, 
+            2153
+          ], 
+          "visibility": "visible", 
+          "content-desc": [
+            null
+          ], 
+          "rel-bounds": [
+            44, 
+            35, 
+            989, 
+            1883
+          ], 
+          "focused": false, 
+          "selected": false, 
+          "scrollable-vertical": false, 
+          "children": [
+            {
+              "resource-id": "android:id/content", 
+              "adapter-view": false, 
+              "pointer": "d199d23", 
+              "children": [
+                {
+                  "scrollable-horizontal": false, 
+                  "draw": true, 
+                  "ancestors": [
+                    "android.view.ViewGroup", 
+                    "android.view.View", 
+                    "java.lang.Object"
+                  ], 
+                  "clickable": false, 
+                  "pressed": "not_pressed", 
+                  "focusable": false, 
+                  "long-clickable": false, 
+                  "enabled": true, 
+                  "bounds": [
+                    247, 
+                    305, 
+                    1192, 
+                    2153
+                  ], 
+                  "visibility": "visible", 
+                  "content-desc": [
+                    null
+                  ], 
+                  "rel-bounds": [
+                    0, 
+                    0, 
+                    945, 
+                    1848
+                  ], 
+                  "focused": false, 
+                  "selected": false, 
+                  "scrollable-vertical": false, 
+                  "children": [
+                    {
+                      "scrollable-horizontal": false, 
+                      "draw": true, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "clickable": false, 
+                      "pressed": "not_pressed", 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "enabled": true, 
+                      "bounds": [
+                        247, 
+                        305, 
+                        1192, 
+                        1957
+                      ], 
+                      "visibility": "visible", 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        0, 
+                        945, 
+                        1652
+                      ], 
+                      "focused": false, 
+                      "selected": false, 
+                      "scrollable-vertical": false, 
+                      "children": [
+                        {
+                          "text": "MONDAY", 
+                          "resource-id": "com.hp.pregnancy.lite:id/date_picker_header", 
+                          "adapter-view": false, 
+                          "pointer": "39cf59e", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            0, 
+                            945, 
+                            105
+                          ], 
+                          "draw": false, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.TextView", 
+                          "visible-to-user": true, 
+                          "package": "com.hp.pregnancy.lite", 
+                          "enabled": true, 
+                          "bounds": [
+                            247, 
+                            305, 
+                            1192, 
+                            410
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.hp.pregnancy.lite:id/day_picker_selected_date_layout", 
+                          "adapter-view": false, 
+                          "pointer": "2dee87f", 
+                          "children": [
+                            {
+                              "resource-id": "com.hp.pregnancy.lite:id/date_picker_month_and_day", 
+                              "adapter-view": false, 
+                              "pointer": "4f9e04c", 
+                              "children": [
+                                {
+                                  "text": "OCT", 
+                                  "resource-id": "com.hp.pregnancy.lite:id/date_picker_month", 
+                                  "adapter-view": false, 
+                                  "pointer": "783d895", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": true, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    945, 
+                                    123
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.hp.pregnancy.lite", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    247, 
+                                    448, 
+                                    1192, 
+                                    571
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }, 
+                                {
+                                  "text": "24", 
+                                  "resource-id": "com.hp.pregnancy.lite:id/date_picker_day", 
+                                  "adapter-view": false, 
+                                  "pointer": "75ecdaa", 
+                                  "scrollable-horizontal": false, 
+                                  "ancestors": [
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "selected": true, 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    89, 
+                                    945, 
+                                    499
+                                  ], 
+                                  "draw": false, 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "visibility": "visible", 
+                                  "focused": false, 
+                                  "clickable": false, 
+                                  "abs-pos": true, 
+                                  "class": "android.widget.TextView", 
+                                  "visible-to-user": true, 
+                                  "package": "com.hp.pregnancy.lite", 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    247, 
+                                    537, 
+                                    1192, 
+                                    913
+                                  ], 
+                                  "pressed": "not_pressed", 
+                                  "scrollable-vertical": false
+                                }
+                              ], 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.LinearLayout", 
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": true, 
+                              "content-desc": [
+                                "October 24"
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                38, 
+                                945, 
+                                503
+                              ], 
+                              "draw": true, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "com.wdullaer.materialdatetimepicker.AccessibleLinearLayout", 
+                              "visible-to-user": true, 
+                              "package": "com.hp.pregnancy.lite", 
+                              "enabled": true, 
+                              "bounds": [
+                                247, 
+                                448, 
+                                1192, 
+                                913
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }, 
+                            {
+                              "text": "2016", 
+                              "resource-id": "com.hp.pregnancy.lite:id/date_picker_year", 
+                              "adapter-view": false, 
+                              "pointer": "1838d9b", 
+                              "scrollable-horizontal": false, 
+                              "ancestors": [
+                                "android.widget.TextView", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "selected": false, 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                503, 
+                                945, 
+                                626
+                              ], 
+                              "draw": false, 
+                              "focusable": false, 
+                              "long-clickable": false, 
+                              "visibility": "visible", 
+                              "focused": false, 
+                              "clickable": true, 
+                              "abs-pos": true, 
+                              "class": "com.wdullaer.materialdatetimepicker.AccessibleTextView", 
+                              "visible-to-user": true, 
+                              "package": "com.hp.pregnancy.lite", 
+                              "enabled": true, 
+                              "bounds": [
+                                247, 
+                                913, 
+                                1192, 
+                                1036
+                              ], 
+                              "pressed": "not_pressed", 
+                              "scrollable-vertical": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            105, 
+                            945, 
+                            770
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "android.widget.LinearLayout", 
+                          "visible-to-user": true, 
+                          "package": "com.hp.pregnancy.lite", 
+                          "enabled": true, 
+                          "bounds": [
+                            247, 
+                            410, 
+                            1192, 
+                            1075
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "resource-id": "com.hp.pregnancy.lite:id/animator", 
+                          "adapter-view": false, 
+                          "pointer": "b0ab538", 
+                          "children": [
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": false, 
+                              "ancestors": [
+                                "com.wdullaer.materialdatetimepicker.date.DayPickerView", 
+                                "android.widget.ListView", 
+                                "android.widget.AbsListView", 
+                                "android.widget.AdapterView", 
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": true, 
+                              "pressed": "not_pressed", 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                275, 
+                                1075, 
+                                1164, 
+                                1957
+                              ], 
+                              "visibility": "visible", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                28, 
+                                0, 
+                                917, 
+                                882
+                              ], 
+                              "focused": true, 
+                              "selected": false, 
+                              "scrollable-vertical": false, 
+                              "children": [
+                                {
+                                  "scrollable-horizontal": false, 
+                                  "draw": false, 
+                                  "ancestors": [
+                                    "com.wdullaer.materialdatetimepicker.date.MonthView", 
+                                    "android.view.View", 
+                                    "java.lang.Object"
+                                  ], 
+                                  "clickable": true, 
+                                  "pressed": "not_pressed", 
+                                  "focusable": false, 
+                                  "long-clickable": false, 
+                                  "enabled": true, 
+                                  "bounds": [
+                                    275, 
+                                    1075, 
+                                    1164, 
+                                    1957
+                                  ], 
+                                  "visibility": "visible", 
+                                  "content-desc": [
+                                    null
+                                  ], 
+                                  "rel-bounds": [
+                                    0, 
+                                    0, 
+                                    889, 
+                                    885
+                                  ], 
+                                  "focused": false, 
+                                  "selected": false, 
+                                  "scrollable-vertical": false, 
+                                  "adapter-view": false, 
+                                  "abs-pos": true, 
+                                  "pointer": "8166911", 
+                                  "class": "com.wdullaer.materialdatetimepicker.date.SimpleMonthView", 
+                                  "visible-to-user": true
+                                }
+                              ], 
+                              "adapter-view": true, 
+                              "abs-pos": true, 
+                              "pointer": "bb2f0a2", 
+                              "class": "com.wdullaer.materialdatetimepicker.date.SimpleDayPickerView", 
+                              "visible-to-user": true
+                            }, 
+                            {
+                              "scrollable-horizontal": false, 
+                              "draw": false, 
+                              "ancestors": [
+                                "android.widget.ListView", 
+                                "android.widget.AbsListView", 
+                                "android.widget.AdapterView", 
+                                "android.view.ViewGroup", 
+                                "android.view.View", 
+                                "java.lang.Object"
+                              ], 
+                              "clickable": true, 
+                              "pressed": "not_pressed", 
+                              "focusable": true, 
+                              "long-clickable": false, 
+                              "enabled": true, 
+                              "bounds": [
+                                247, 
+                                1075, 
+                                247, 
+                                1075
+                              ], 
+                              "visibility": "gone", 
+                              "content-desc": [
+                                null
+                              ], 
+                              "rel-bounds": [
+                                0, 
+                                0, 
+                                0, 
+                                0
+                              ], 
+                              "focused": false, 
+                              "selected": false, 
+                              "scrollable-vertical": true, 
+                              "adapter-view": true, 
+                              "abs-pos": true, 
+                              "pointer": "fce0133", 
+                              "class": "com.wdullaer.materialdatetimepicker.date.YearPickerView", 
+                              "visible-to-user": false
+                            }
+                          ], 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.ViewAnimator", 
+                            "android.widget.FrameLayout", 
+                            "android.view.ViewGroup", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            "Month grid of days: October 24"
+                          ], 
+                          "rel-bounds": [
+                            0, 
+                            770, 
+                            945, 
+                            1652
+                          ], 
+                          "draw": true, 
+                          "focusable": false, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": false, 
+                          "abs-pos": true, 
+                          "class": "com.wdullaer.materialdatetimepicker.date.AccessibleDateAnimator", 
+                          "visible-to-user": true, 
+                          "package": "com.hp.pregnancy.lite", 
+                          "enabled": true, 
+                          "bounds": [
+                            247, 
+                            1075, 
+                            1192, 
+                            1957
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "adapter-view": false, 
+                      "abs-pos": true, 
+                      "pointer": "20a97d9", 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true
+                    }, 
+                    {
+                      "resource-id": "com.hp.pregnancy.lite:id/done_background", 
+                      "adapter-view": false, 
+                      "pointer": "9b41a76", 
+                      "children": [
+                        {
+                          "text": "Cancel", 
+                          "resource-id": "com.hp.pregnancy.lite:id/cancel", 
+                          "adapter-view": false, 
+                          "pointer": "45133c6", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            394, 
+                            16, 
+                            637, 
+                            152
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "android.widget.Button", 
+                          "visible-to-user": true, 
+                          "package": "com.hp.pregnancy.lite", 
+                          "enabled": true, 
+                          "bounds": [
+                            641, 
+                            1973, 
+                            884, 
+                            2109
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }, 
+                        {
+                          "text": "Save", 
+                          "resource-id": "com.hp.pregnancy.lite:id/ok", 
+                          "adapter-view": false, 
+                          "pointer": "57d8f87", 
+                          "scrollable-horizontal": false, 
+                          "ancestors": [
+                            "android.widget.TextView", 
+                            "android.view.View", 
+                            "java.lang.Object"
+                          ], 
+                          "selected": false, 
+                          "content-desc": [
+                            null
+                          ], 
+                          "rel-bounds": [
+                            665, 
+                            16, 
+                            889, 
+                            152
+                          ], 
+                          "draw": false, 
+                          "focusable": true, 
+                          "long-clickable": false, 
+                          "visibility": "visible", 
+                          "focused": false, 
+                          "clickable": true, 
+                          "abs-pos": true, 
+                          "font-family": "default", 
+                          "class": "android.widget.Button", 
+                          "visible-to-user": true, 
+                          "package": "com.hp.pregnancy.lite", 
+                          "enabled": true, 
+                          "bounds": [
+                            912, 
+                            1973, 
+                            1136, 
+                            2109
+                          ], 
+                          "pressed": "not_pressed", 
+                          "scrollable-vertical": false
+                        }
+                      ], 
+                      "scrollable-horizontal": false, 
+                      "ancestors": [
+                        "android.view.ViewGroup", 
+                        "android.view.View", 
+                        "java.lang.Object"
+                      ], 
+                      "selected": false, 
+                      "content-desc": [
+                        null
+                      ], 
+                      "rel-bounds": [
+                        0, 
+                        1652, 
+                        945, 
+                        1848
+                      ], 
+                      "draw": true, 
+                      "focusable": false, 
+                      "long-clickable": false, 
+                      "visibility": "visible", 
+                      "focused": false, 
+                      "clickable": false, 
+                      "abs-pos": true, 
+                      "class": "android.widget.LinearLayout", 
+                      "visible-to-user": true, 
+                      "package": "com.hp.pregnancy.lite", 
+                      "enabled": true, 
+                      "bounds": [
+                        247, 
+                        1957, 
+                        1192, 
+                        2153
+                      ], 
+                      "pressed": "not_pressed", 
+                      "scrollable-vertical": false
+                    }
+                  ], 
+                  "adapter-view": false, 
+                  "abs-pos": true, 
+                  "pointer": "ddac220", 
+                  "class": "android.widget.LinearLayout", 
+                  "visible-to-user": true
+                }
+              ], 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.ViewGroup", 
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                945, 
+                1848
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "visible", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.widget.FrameLayout", 
+              "visible-to-user": true, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                247, 
+                305, 
+                1192, 
+                2153
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }, 
+            {
+              "resource-id": "android:id/action_mode_bar_stub", 
+              "adapter-view": false, 
+              "pointer": "f036877", 
+              "scrollable-horizontal": false, 
+              "ancestors": [
+                "android.view.View", 
+                "java.lang.Object"
+              ], 
+              "selected": false, 
+              "content-desc": [
+                null
+              ], 
+              "rel-bounds": [
+                0, 
+                0, 
+                0, 
+                0
+              ], 
+              "draw": true, 
+              "focusable": false, 
+              "long-clickable": false, 
+              "visibility": "gone", 
+              "focused": false, 
+              "clickable": false, 
+              "abs-pos": true, 
+              "class": "android.view.ViewStub", 
+              "visible-to-user": false, 
+              "package": "android", 
+              "enabled": true, 
+              "bounds": [
+                247, 
+                305, 
+                247, 
+                305
+              ], 
+              "pressed": "not_pressed", 
+              "scrollable-vertical": false
+            }
+          ], 
+          "adapter-view": false, 
+          "abs-pos": true, 
+          "pointer": "31cc652", 
+          "class": "android.widget.FrameLayout", 
+          "visible-to-user": true
+        }
+      ], 
+      "adapter-view": false, 
+      "abs-pos": true, 
+      "pointer": "e212add", 
+      "class": "com.android.internal.policy.PhoneWindow$DecorView", 
+      "visible-to-user": true
+    }, 
+    "added_fragments": [], 
+    "active_fragments": []
+  }, 
+  "is_keyboard_deployed": false, 
+  "request_id": "2502"
+}
